@@ -1,0 +1,1001 @@
+age,gender,time_spent,platform,interests,location,demographics,profession,income,indebt,isHomeOwner,Owns_Car
+56,male,3,Instagram,Sports,United Kingdom,Urban,Software Engineer,19774,TRUE,FALSE,FALSE
+46,female,2,Facebook,Travel,United Kingdom,Urban,Student,10564,TRUE,TRUE,TRUE
+32,female,8,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,13258,FALSE,FALSE,FALSE
+60,male,5,Instagram,Travel,United Kingdom,Urban,Student,12500,FALSE,TRUE,FALSE
+25,female,1,Instagram,Lifestlye,Australia,Urban,Software Engineer,14566,FALSE,TRUE,TRUE
+38,female,3,Facebook,Travel,United States,Urban,Marketer Manager,19179,TRUE,TRUE,TRUE
+56,female,8,YouTube,Sports,United States,Urban,Student,16881,TRUE,TRUE,TRUE
+36,female,4,Instagram,Sports,Australia,Urban,Marketer Manager,13636,TRUE,FALSE,TRUE
+40,female,7,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,16030,FALSE,FALSE,TRUE
+28,female,2,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,10223,TRUE,FALSE,TRUE
+28,female,7,YouTube,Lifestlye,United Kingdom,Urban,Student,16297,TRUE,TRUE,FALSE
+41,male,5,Facebook,Sports,United States,Sub_Urban,Marketer Manager,10350,FALSE,FALSE,FALSE
+53,male,5,Facebook,Sports,Australia,Rural,Student,17314,FALSE,TRUE,TRUE
+57,male,6,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,11928,FALSE,TRUE,FALSE
+41,male,9,YouTube,Travel,United States,Rural,Student,17743,TRUE,TRUE,FALSE
+20,male,6,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,18540,TRUE,TRUE,FALSE
+39,male,8,Instagram,Travel,United States,Sub_Urban,Student,14732,TRUE,TRUE,FALSE
+19,male,7,Instagram,Sports,United Kingdom,Rural,Marketer Manager,11017,FALSE,TRUE,TRUE
+41,male,9,Facebook,Sports,United States,Sub_Urban,Student,12226,FALSE,FALSE,FALSE
+61,male,4,Facebook,Sports,United States,Urban,Marketer Manager,17206,FALSE,FALSE,FALSE
+47,male,2,Instagram,Sports,United Kingdom,Rural,Software Engineer,17170,FALSE,FALSE,TRUE
+55,male,7,YouTube,Travel,Australia,Urban,Student,16207,TRUE,FALSE,TRUE
+19,female,6,YouTube,Travel,United States,Rural,Marketer Manager,12419,TRUE,TRUE,TRUE
+38,male,1,YouTube,Sports,Australia,Sub_Urban,Software Engineer,16240,TRUE,TRUE,TRUE
+50,male,9,Instagram,Sports,United Kingdom,Rural,Software Engineer,11893,TRUE,FALSE,FALSE
+29,male,9,Facebook,Travel,Australia,Rural,Student,15322,TRUE,FALSE,TRUE
+39,male,2,Instagram,Lifestlye,Australia,Urban,Software Engineer,17718,TRUE,FALSE,FALSE
+61,male,3,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,16878,TRUE,FALSE,FALSE
+42,male,5,YouTube,Travel,Australia,Urban,Software Engineer,11125,TRUE,FALSE,TRUE
+44,male,5,YouTube,Sports,Australia,Sub_Urban,Software Engineer,13117,FALSE,FALSE,TRUE
+59,male,1,Facebook,Sports,United States,Urban,Marketer Manager,14161,FALSE,FALSE,TRUE
+45,male,8,Facebook,Lifestlye,United States,Rural,Software Engineer,14042,TRUE,FALSE,TRUE
+33,male,8,Instagram,Lifestlye,United States,Urban,Software Engineer,14433,FALSE,TRUE,TRUE
+32,female,4,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,18638,TRUE,TRUE,TRUE
+64,female,7,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,12658,TRUE,TRUE,FALSE
+61,female,3,Instagram,Travel,United States,Rural,Marketer Manager,13483,FALSE,TRUE,FALSE
+20,female,6,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,12944,TRUE,FALSE,FALSE
+54,female,9,YouTube,Lifestlye,United States,Urban,Marketer Manager,17210,TRUE,TRUE,FALSE
+24,female,1,Instagram,Lifestlye,United States,Rural,Software Engineer,17653,TRUE,FALSE,TRUE
+38,female,5,Instagram,Sports,Australia,Sub_Urban,Software Engineer,18787,TRUE,TRUE,TRUE
+26,female,4,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,11986,TRUE,FALSE,FALSE
+56,female,8,Instagram,Sports,Australia,Urban,Software Engineer,11074,TRUE,FALSE,FALSE
+35,female,1,Instagram,Lifestlye,Australia,Urban,Marketer Manager,14305,TRUE,TRUE,FALSE
+21,female,9,Instagram,Travel,United States,Rural,Marketer Manager,13007,FALSE,TRUE,TRUE
+42,male,6,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,10969,FALSE,FALSE,TRUE
+31,male,4,Instagram,Travel,United Kingdom,Urban,Student,18772,TRUE,FALSE,TRUE
+26,female,9,Facebook,Travel,Australia,Rural,Software Engineer,12824,FALSE,FALSE,FALSE
+43,female,5,Instagram,Sports,Australia,Sub_Urban,Software Engineer,11211,TRUE,TRUE,FALSE
+19,female,5,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,10229,TRUE,TRUE,TRUE
+37,female,5,YouTube,Lifestlye,United States,Rural,Student,14284,TRUE,FALSE,TRUE
+45,female,1,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,13185,TRUE,TRUE,FALSE
+64,female,1,Facebook,Travel,United States,Urban,Marketer Manager,10501,FALSE,FALSE,FALSE
+24,female,8,Facebook,Sports,United States,Sub_Urban,Software Engineer,10048,FALSE,TRUE,TRUE
+61,female,8,YouTube,Travel,United States,Sub_Urban,Software Engineer,13566,FALSE,TRUE,FALSE
+25,female,6,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,13055,FALSE,TRUE,TRUE
+64,female,4,Instagram,Lifestlye,United States,Rural,Marketer Manager,18880,TRUE,TRUE,TRUE
+52,female,2,YouTube,Travel,United Kingdom,Urban,Software Engineer,10386,FALSE,TRUE,FALSE
+31,female,2,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,10969,TRUE,FALSE,FALSE
+34,female,9,Instagram,Travel,United States,Rural,Marketer Manager,19197,TRUE,FALSE,FALSE
+53,female,5,Facebook,Sports,United States,Sub_Urban,Software Engineer,15820,FALSE,TRUE,TRUE
+57,female,4,Instagram,Travel,United Kingdom,Urban,Software Engineer,13052,TRUE,FALSE,FALSE
+21,female,1,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,17397,FALSE,FALSE,FALSE
+19,female,7,Facebook,Sports,Australia,Urban,Software Engineer,12302,FALSE,TRUE,TRUE
+23,female,3,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,12283,FALSE,FALSE,TRUE
+59,female,6,Instagram,Lifestlye,Australia,Sub_Urban,Student,19799,FALSE,TRUE,FALSE
+21,female,5,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,14366,FALSE,FALSE,TRUE
+46,female,5,YouTube,Travel,United States,Urban,Student,10122,TRUE,FALSE,TRUE
+35,female,5,YouTube,Travel,Australia,Rural,Student,16799,FALSE,FALSE,TRUE
+43,female,1,Facebook,Lifestlye,United Kingdom,Urban,Student,19472,FALSE,FALSE,FALSE
+61,female,1,Instagram,Travel,Australia,Sub_Urban,Software Engineer,13727,TRUE,FALSE,FALSE
+51,female,3,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,18450,FALSE,FALSE,TRUE
+27,female,4,Facebook,Travel,United States,Rural,Student,19139,FALSE,FALSE,TRUE
+53,female,5,Facebook,Sports,United Kingdom,Urban,Student,14958,TRUE,TRUE,TRUE
+31,female,2,Facebook,Sports,Australia,Urban,Student,10524,TRUE,TRUE,FALSE
+48,female,8,YouTube,Lifestlye,Australia,Urban,Software Engineer,19079,FALSE,TRUE,TRUE
+32,female,2,YouTube,Travel,United States,Sub_Urban,Student,18399,TRUE,TRUE,TRUE
+25,female,9,Instagram,Travel,United Kingdom,Urban,Student,10148,FALSE,FALSE,FALSE
+31,female,2,Instagram,Sports,United Kingdom,Rural,Marketer Manager,18001,TRUE,FALSE,TRUE
+40,female,9,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,10437,FALSE,FALSE,FALSE
+57,female,7,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,13749,FALSE,TRUE,FALSE
+38,female,8,Facebook,Sports,United Kingdom,Urban,Marketer Manager,18186,FALSE,TRUE,FALSE
+33,female,2,Facebook,Lifestlye,Australia,Rural,Marketer Manager,14453,TRUE,TRUE,TRUE
+62,female,7,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,15336,FALSE,FALSE,TRUE
+35,female,6,Facebook,Sports,United States,Sub_Urban,Software Engineer,14551,TRUE,TRUE,FALSE
+64,female,4,Instagram,Travel,United Kingdom,Urban,Marketer Manager,12823,FALSE,FALSE,TRUE
+41,female,7,Instagram,Sports,United Kingdom,Urban,Software Engineer,15728,FALSE,TRUE,FALSE
+43,female,4,Facebook,Sports,Australia,Rural,Student,18677,FALSE,FALSE,TRUE
+42,female,2,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,18391,FALSE,TRUE,FALSE
+62,female,7,YouTube,Sports,Australia,Rural,Software Engineer,11982,FALSE,FALSE,FALSE
+58,female,8,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,16996,TRUE,TRUE,TRUE
+46,female,2,Facebook,Sports,United States,Rural,Student,19663,TRUE,TRUE,TRUE
+32,female,5,Instagram,Sports,Australia,Rural,Software Engineer,12311,TRUE,FALSE,TRUE
+62,female,1,Instagram,Lifestlye,Australia,Rural,Software Engineer,17225,FALSE,FALSE,TRUE
+18,female,7,Instagram,Travel,United States,Sub_Urban,Software Engineer,19713,FALSE,TRUE,FALSE
+42,female,8,Instagram,Lifestlye,Australia,Urban,Student,10604,TRUE,FALSE,FALSE
+24,female,6,Instagram,Lifestlye,United States,Sub_Urban,Student,18175,FALSE,TRUE,TRUE
+26,female,5,YouTube,Lifestlye,United Kingdom,Urban,Student,15785,FALSE,FALSE,TRUE
+41,female,6,Facebook,Travel,United States,Rural,Software Engineer,19609,FALSE,TRUE,FALSE
+18,female,2,YouTube,Sports,Australia,Rural,Student,14597,TRUE,FALSE,TRUE
+61,female,1,Instagram,Lifestlye,United States,Rural,Marketer Manager,17759,TRUE,TRUE,TRUE
+25,female,7,Instagram,Lifestlye,Australia,Rural,Student,17532,TRUE,TRUE,TRUE
+41,female,7,Instagram,Travel,United Kingdom,Rural,Software Engineer,18740,TRUE,TRUE,TRUE
+28,female,2,Instagram,Lifestlye,United States,Urban,Marketer Manager,10838,TRUE,FALSE,FALSE
+34,female,2,Facebook,Sports,United Kingdom,Urban,Student,13815,FALSE,TRUE,FALSE
+25,male,1,Instagram,Travel,Australia,Rural,Marketer Manager,10847,FALSE,FALSE,TRUE
+52,female,8,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,14709,FALSE,FALSE,FALSE
+52,female,8,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,14507,FALSE,FALSE,TRUE
+50,female,1,Facebook,Travel,United States,Rural,Marketer Manager,16575,TRUE,TRUE,TRUE
+22,female,8,YouTube,Lifestlye,United States,Urban,Marketer Manager,14773,TRUE,FALSE,TRUE
+59,female,9,Instagram,Sports,Australia,Sub_Urban,Software Engineer,14468,FALSE,FALSE,FALSE
+56,female,4,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,15192,TRUE,FALSE,FALSE
+58,female,1,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,13320,FALSE,TRUE,FALSE
+45,female,1,Instagram,Sports,United States,Rural,Marketer Manager,14698,FALSE,FALSE,FALSE
+24,female,3,Instagram,Travel,United States,Sub_Urban,Marketer Manager,14311,FALSE,FALSE,FALSE
+26,female,5,Instagram,Travel,United States,Sub_Urban,Marketer Manager,13673,FALSE,FALSE,TRUE
+25,female,5,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,11564,TRUE,FALSE,TRUE
+29,female,9,Facebook,Lifestlye,United States,Sub_Urban,Student,11840,FALSE,TRUE,FALSE
+51,female,2,YouTube,Sports,United States,Urban,Marketer Manager,16058,TRUE,TRUE,FALSE
+50,female,2,Facebook,Lifestlye,Australia,Rural,Student,17131,FALSE,FALSE,FALSE
+40,female,6,Facebook,Sports,United States,Rural,Software Engineer,10726,FALSE,FALSE,TRUE
+41,female,9,Instagram,Lifestlye,United States,Urban,Marketer Manager,19436,FALSE,FALSE,FALSE
+54,female,1,Instagram,Sports,United Kingdom,Urban,Student,16697,FALSE,FALSE,TRUE
+52,female,9,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,19257,TRUE,TRUE,TRUE
+61,female,9,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,10282,FALSE,TRUE,FALSE
+57,female,9,Instagram,Sports,United States,Sub_Urban,Marketer Manager,11081,TRUE,TRUE,TRUE
+39,female,5,Instagram,Lifestlye,Australia,Rural,Student,13885,FALSE,TRUE,TRUE
+44,female,9,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,12881,FALSE,FALSE,FALSE
+52,female,4,YouTube,Lifestlye,Australia,Urban,Marketer Manager,12970,FALSE,FALSE,TRUE
+18,female,2,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,19344,TRUE,TRUE,FALSE
+52,female,6,YouTube,Sports,Australia,Sub_Urban,Software Engineer,16985,FALSE,TRUE,TRUE
+54,female,4,YouTube,Lifestlye,Australia,Sub_Urban,Student,10947,FALSE,FALSE,FALSE
+64,female,6,Instagram,Lifestlye,United States,Rural,Student,14760,FALSE,FALSE,FALSE
+31,female,3,YouTube,Lifestlye,Australia,Urban,Software Engineer,19909,FALSE,FALSE,TRUE
+20,female,6,Instagram,Travel,United States,Sub_Urban,Marketer Manager,10066,FALSE,FALSE,FALSE
+18,female,2,YouTube,Travel,United States,Rural,Student,18828,TRUE,FALSE,TRUE
+22,female,2,Facebook,Sports,United States,Sub_Urban,Marketer Manager,18505,TRUE,TRUE,TRUE
+43,female,9,YouTube,Travel,United States,Urban,Marketer Manager,10564,FALSE,TRUE,FALSE
+31,female,7,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,19793,FALSE,FALSE,TRUE
+56,female,3,Instagram,Sports,United Kingdom,Urban,Software Engineer,19017,TRUE,FALSE,FALSE
+44,female,1,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,13670,FALSE,TRUE,TRUE
+26,female,8,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,19217,TRUE,FALSE,TRUE
+32,female,6,Instagram,Sports,Australia,Sub_Urban,Software Engineer,12251,FALSE,TRUE,FALSE
+32,female,7,Instagram,Lifestlye,United States,Urban,Marketer Manager,10804,FALSE,TRUE,TRUE
+43,female,9,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,14631,TRUE,TRUE,TRUE
+59,female,5,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,19583,FALSE,TRUE,TRUE
+30,female,1,Instagram,Sports,United States,Rural,Marketer Manager,11235,TRUE,FALSE,TRUE
+49,female,7,Instagram,Sports,United Kingdom,Rural,Software Engineer,16720,TRUE,FALSE,TRUE
+56,female,5,Instagram,Lifestlye,United States,Urban,Marketer Manager,16906,TRUE,TRUE,TRUE
+49,female,3,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,16016,FALSE,FALSE,TRUE
+21,female,9,Instagram,Sports,United Kingdom,Urban,Software Engineer,13549,TRUE,FALSE,TRUE
+47,female,1,Facebook,Sports,United Kingdom,Rural,Student,17938,TRUE,FALSE,FALSE
+54,female,1,YouTube,Lifestlye,United States,Urban,Student,14141,FALSE,FALSE,TRUE
+40,female,1,Facebook,Travel,Australia,Urban,Software Engineer,16966,FALSE,TRUE,TRUE
+56,female,3,Instagram,Sports,United States,Rural,Student,19546,FALSE,FALSE,FALSE
+62,female,6,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,15335,FALSE,TRUE,FALSE
+32,female,3,YouTube,Lifestlye,United States,Urban,Marketer Manager,15077,FALSE,TRUE,FALSE
+60,female,8,Facebook,Lifestlye,Australia,Rural,Marketer Manager,15611,FALSE,FALSE,TRUE
+46,female,2,YouTube,Lifestlye,United States,Sub_Urban,Student,18089,TRUE,TRUE,FALSE
+53,female,9,Facebook,Lifestlye,Australia,Rural,Marketer Manager,12892,FALSE,FALSE,FALSE
+30,female,3,Instagram,Travel,Australia,Urban,Student,15577,TRUE,FALSE,TRUE
+49,female,5,YouTube,Sports,United States,Sub_Urban,Student,13618,FALSE,TRUE,TRUE
+24,female,8,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11559,TRUE,FALSE,FALSE
+39,female,2,Instagram,Lifestlye,Australia,Rural,Marketer Manager,16683,TRUE,TRUE,FALSE
+45,female,6,YouTube,Travel,United States,Rural,Student,11507,FALSE,TRUE,TRUE
+19,female,5,Facebook,Travel,Australia,Rural,Marketer Manager,12063,FALSE,FALSE,TRUE
+59,female,9,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,13642,TRUE,FALSE,TRUE
+62,female,5,Facebook,Sports,United States,Sub_Urban,Marketer Manager,12000,FALSE,FALSE,TRUE
+23,female,2,Facebook,Sports,United States,Urban,Marketer Manager,11294,FALSE,TRUE,TRUE
+45,female,5,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,14065,TRUE,FALSE,FALSE
+45,female,4,YouTube,Travel,United Kingdom,Urban,Marketer Manager,18014,TRUE,TRUE,TRUE
+61,male,7,Facebook,Lifestlye,Australia,Rural,Marketer Manager,19945,TRUE,TRUE,TRUE
+61,female,6,Instagram,Lifestlye,United States,Rural,Student,11603,FALSE,FALSE,TRUE
+37,female,2,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,11322,FALSE,FALSE,TRUE
+47,female,5,YouTube,Lifestlye,Australia,Rural,Marketer Manager,15956,FALSE,FALSE,TRUE
+28,female,7,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,12441,FALSE,TRUE,FALSE
+45,female,7,Instagram,Lifestlye,United States,Sub_Urban,Student,11098,TRUE,FALSE,TRUE
+42,female,5,Facebook,Travel,Australia,Urban,Student,15073,FALSE,TRUE,FALSE
+56,female,9,YouTube,Sports,United States,Sub_Urban,Student,19697,TRUE,FALSE,TRUE
+50,female,4,YouTube,Sports,United States,Urban,Marketer Manager,19318,FALSE,FALSE,FALSE
+18,female,3,Instagram,Travel,United Kingdom,Sub_Urban,Student,18488,FALSE,TRUE,FALSE
+44,female,4,YouTube,Sports,United States,Sub_Urban,Software Engineer,13787,TRUE,TRUE,TRUE
+30,female,5,Facebook,Lifestlye,United States,Rural,Student,12096,FALSE,FALSE,TRUE
+58,female,6,YouTube,Sports,Australia,Sub_Urban,Software Engineer,12208,FALSE,FALSE,TRUE
+20,female,3,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,15988,TRUE,FALSE,TRUE
+56,female,2,Instagram,Sports,United States,Urban,Student,10175,FALSE,FALSE,TRUE
+23,female,4,Facebook,Travel,Australia,Rural,Software Engineer,17169,TRUE,FALSE,FALSE
+25,female,5,Facebook,Sports,United Kingdom,Urban,Student,16014,TRUE,TRUE,TRUE
+44,female,4,YouTube,Sports,United Kingdom,Urban,Student,11667,TRUE,TRUE,TRUE
+26,female,3,YouTube,Sports,Australia,Rural,Student,18867,TRUE,TRUE,FALSE
+54,female,8,Instagram,Travel,Australia,Rural,Marketer Manager,11823,FALSE,TRUE,TRUE
+50,female,4,Facebook,Sports,Australia,Rural,Software Engineer,15147,FALSE,FALSE,FALSE
+59,female,2,Facebook,Travel,Australia,Sub_Urban,Student,11356,FALSE,TRUE,TRUE
+61,female,2,Facebook,Lifestlye,Australia,Rural,Software Engineer,13072,TRUE,TRUE,FALSE
+41,female,1,YouTube,Sports,United States,Rural,Software Engineer,13259,FALSE,TRUE,TRUE
+32,female,4,Facebook,Travel,United States,Rural,Software Engineer,16199,FALSE,FALSE,FALSE
+49,female,9,Instagram,Travel,United Kingdom,Urban,Student,10546,FALSE,TRUE,FALSE
+49,female,7,Instagram,Sports,United States,Urban,Student,15231,FALSE,FALSE,TRUE
+41,female,7,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,17965,TRUE,TRUE,TRUE
+58,female,7,YouTube,Travel,United States,Urban,Marketer Manager,12083,TRUE,FALSE,TRUE
+29,female,8,Facebook,Sports,Australia,Sub_Urban,Software Engineer,12040,FALSE,TRUE,FALSE
+56,female,1,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,14534,TRUE,FALSE,FALSE
+19,female,8,Instagram,Travel,United Kingdom,Rural,Software Engineer,11752,FALSE,TRUE,FALSE
+20,female,4,Facebook,Travel,United Kingdom,Urban,Software Engineer,19807,FALSE,FALSE,TRUE
+54,female,4,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,11849,FALSE,FALSE,TRUE
+34,female,4,Facebook,Lifestlye,United States,Urban,Student,12642,TRUE,TRUE,FALSE
+19,female,6,YouTube,Sports,United States,Rural,Marketer Manager,11600,FALSE,FALSE,TRUE
+19,female,7,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,14402,TRUE,FALSE,FALSE
+45,female,6,Facebook,Travel,United Kingdom,Rural,Software Engineer,13799,TRUE,TRUE,TRUE
+40,female,1,Instagram,Lifestlye,United States,Rural,Student,10618,FALSE,TRUE,TRUE
+54,female,8,Instagram,Lifestlye,United States,Sub_Urban,Student,11132,TRUE,FALSE,FALSE
+49,female,7,Facebook,Lifestlye,Australia,Rural,Marketer Manager,15491,TRUE,TRUE,TRUE
+50,female,6,YouTube,Travel,Australia,Rural,Student,15795,FALSE,TRUE,TRUE
+18,female,6,YouTube,Lifestlye,Australia,Urban,Marketer Manager,17633,TRUE,TRUE,TRUE
+36,female,5,Instagram,Lifestlye,United States,Rural,Marketer Manager,11487,TRUE,FALSE,TRUE
+19,female,6,YouTube,Travel,United States,Rural,Marketer Manager,17848,FALSE,FALSE,TRUE
+61,female,9,Instagram,Sports,Australia,Rural,Student,15009,FALSE,FALSE,FALSE
+43,female,9,YouTube,Sports,United Kingdom,Rural,Marketer Manager,19749,TRUE,FALSE,TRUE
+49,female,8,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,12113,FALSE,FALSE,FALSE
+23,female,9,Instagram,Lifestlye,Australia,Urban,Software Engineer,11044,FALSE,FALSE,TRUE
+49,female,8,Instagram,Travel,Australia,Rural,Marketer Manager,12431,TRUE,FALSE,TRUE
+21,female,8,Facebook,Sports,Australia,Rural,Marketer Manager,17979,TRUE,TRUE,FALSE
+28,female,1,Instagram,Sports,United States,Sub_Urban,Software Engineer,11582,FALSE,FALSE,FALSE
+34,female,5,YouTube,Travel,United Kingdom,Rural,Software Engineer,11308,TRUE,FALSE,TRUE
+55,female,4,YouTube,Travel,Australia,Sub_Urban,Student,14917,FALSE,TRUE,TRUE
+41,female,2,Instagram,Sports,United Kingdom,Urban,Marketer Manager,18793,FALSE,TRUE,FALSE
+22,female,8,YouTube,Travel,United Kingdom,Urban,Student,11620,TRUE,TRUE,FALSE
+51,female,3,Instagram,Sports,United Kingdom,Rural,Student,17503,TRUE,FALSE,FALSE
+23,female,4,Facebook,Travel,Australia,Rural,Software Engineer,14766,FALSE,TRUE,FALSE
+39,female,7,Instagram,Travel,United States,Rural,Student,15362,FALSE,FALSE,TRUE
+28,female,9,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,15192,FALSE,FALSE,TRUE
+33,female,2,YouTube,Sports,United Kingdom,Rural,Software Engineer,16622,FALSE,FALSE,TRUE
+50,female,3,Facebook,Travel,United Kingdom,Rural,Marketer Manager,16093,TRUE,TRUE,TRUE
+26,female,4,YouTube,Sports,United States,Urban,Marketer Manager,16704,FALSE,TRUE,TRUE
+23,female,1,Instagram,Sports,Australia,Rural,Software Engineer,10100,TRUE,FALSE,FALSE
+33,female,7,YouTube,Travel,United Kingdom,Urban,Marketer Manager,16657,TRUE,FALSE,FALSE
+46,female,2,Instagram,Travel,United States,Rural,Software Engineer,15875,FALSE,FALSE,FALSE
+20,female,5,Instagram,Sports,United Kingdom,Urban,Marketer Manager,14271,TRUE,TRUE,TRUE
+37,female,1,Facebook,Sports,United States,Rural,Software Engineer,10237,TRUE,FALSE,FALSE
+53,female,3,Facebook,Lifestlye,United States,Urban,Student,17226,FALSE,TRUE,TRUE
+36,female,2,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,18032,TRUE,FALSE,TRUE
+43,female,1,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,15218,TRUE,TRUE,TRUE
+20,female,7,YouTube,Lifestlye,Australia,Urban,Marketer Manager,14025,FALSE,FALSE,FALSE
+36,female,5,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,16073,FALSE,TRUE,TRUE
+37,female,1,YouTube,Travel,Australia,Rural,Marketer Manager,12542,FALSE,TRUE,TRUE
+49,female,6,Instagram,Travel,United Kingdom,Rural,Software Engineer,11537,FALSE,TRUE,FALSE
+24,female,5,YouTube,Sports,Australia,Rural,Student,10754,FALSE,TRUE,TRUE
+58,male,3,YouTube,Lifestlye,United States,Sub_Urban,Student,17396,FALSE,TRUE,FALSE
+50,female,7,YouTube,Travel,United Kingdom,Sub_Urban,Student,17823,FALSE,TRUE,TRUE
+57,female,9,Facebook,Travel,United Kingdom,Urban,Software Engineer,15507,TRUE,FALSE,FALSE
+56,female,9,YouTube,Travel,United States,Sub_Urban,Student,14235,TRUE,FALSE,TRUE
+35,female,9,Instagram,Travel,Australia,Urban,Software Engineer,10540,FALSE,FALSE,TRUE
+57,female,2,Facebook,Travel,United Kingdom,Urban,Marketer Manager,15510,TRUE,FALSE,FALSE
+18,female,3,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,18461,TRUE,TRUE,TRUE
+28,male,7,YouTube,Lifestlye,Australia,Sub_Urban,Student,17926,FALSE,FALSE,FALSE
+45,female,5,Facebook,Lifestlye,United States,Rural,Software Engineer,15131,TRUE,TRUE,TRUE
+42,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,18697,FALSE,TRUE,FALSE
+40,female,3,YouTube,Sports,Australia,Urban,Software Engineer,11129,TRUE,TRUE,TRUE
+48,female,6,Instagram,Lifestlye,Australia,Urban,Software Engineer,13145,FALSE,FALSE,TRUE
+47,female,7,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,18553,TRUE,TRUE,TRUE
+59,female,9,Instagram,Lifestlye,United States,Urban,Software Engineer,13720,TRUE,FALSE,FALSE
+52,female,1,YouTube,Sports,United States,Urban,Marketer Manager,19648,TRUE,FALSE,FALSE
+24,female,7,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,14067,FALSE,FALSE,FALSE
+33,female,8,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,14195,TRUE,FALSE,FALSE
+43,female,3,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,19873,TRUE,FALSE,FALSE
+19,female,4,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,19244,FALSE,TRUE,TRUE
+18,female,6,YouTube,Travel,United Kingdom,Urban,Software Engineer,17281,FALSE,TRUE,TRUE
+29,female,7,YouTube,Travel,United Kingdom,Rural,Marketer Manager,12509,TRUE,FALSE,TRUE
+22,female,4,YouTube,Sports,United Kingdom,Rural,Marketer Manager,15016,TRUE,TRUE,TRUE
+54,female,8,YouTube,Travel,United States,Sub_Urban,Student,16533,TRUE,FALSE,TRUE
+49,female,5,YouTube,Travel,United Kingdom,Rural,Student,14727,TRUE,TRUE,FALSE
+26,female,1,Facebook,Lifestlye,United Kingdom,Urban,Student,10681,FALSE,TRUE,TRUE
+58,female,4,YouTube,Travel,Australia,Rural,Software Engineer,13932,TRUE,TRUE,FALSE
+52,female,3,Instagram,Lifestlye,Australia,Urban,Software Engineer,15560,TRUE,TRUE,TRUE
+36,female,9,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,14016,FALSE,TRUE,FALSE
+33,female,8,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,17339,TRUE,TRUE,FALSE
+20,female,1,Instagram,Sports,United Kingdom,Urban,Marketer Manager,10719,TRUE,TRUE,FALSE
+37,female,6,Facebook,Sports,Australia,Rural,Marketer Manager,10074,TRUE,TRUE,TRUE
+41,female,9,Facebook,Travel,United States,Sub_Urban,Software Engineer,19485,FALSE,TRUE,TRUE
+50,female,7,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,14157,FALSE,TRUE,TRUE
+41,male,4,YouTube,Lifestlye,Australia,Rural,Marketer Manager,18511,TRUE,TRUE,TRUE
+28,male,1,Instagram,Lifestlye,United States,Rural,Student,12149,TRUE,TRUE,FALSE
+25,male,2,Instagram,Travel,United States,Urban,Marketer Manager,19644,FALSE,TRUE,FALSE
+53,male,5,Facebook,Sports,United Kingdom,Rural,Marketer Manager,19747,TRUE,FALSE,FALSE
+55,male,5,Instagram,Sports,Australia,Rural,Marketer Manager,16713,TRUE,TRUE,FALSE
+57,male,8,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,14207,FALSE,TRUE,TRUE
+37,male,6,YouTube,Travel,Australia,Urban,Student,17141,FALSE,TRUE,FALSE
+52,male,8,YouTube,Sports,Australia,Urban,Marketer Manager,18652,FALSE,TRUE,TRUE
+42,male,2,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,19078,TRUE,TRUE,FALSE
+52,male,3,Instagram,Sports,Australia,Urban,Student,13936,TRUE,TRUE,FALSE
+42,male,6,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,19307,TRUE,FALSE,FALSE
+46,male,3,YouTube,Lifestlye,Australia,Rural,Software Engineer,11075,TRUE,FALSE,TRUE
+35,male,6,Facebook,Travel,United States,Sub_Urban,Marketer Manager,13876,FALSE,FALSE,TRUE
+63,male,6,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,14615,TRUE,TRUE,FALSE
+35,male,2,YouTube,Sports,United States,Rural,Software Engineer,17265,TRUE,TRUE,FALSE
+19,male,7,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,16379,FALSE,TRUE,FALSE
+52,male,2,Facebook,Travel,United Kingdom,Urban,Student,19118,FALSE,FALSE,TRUE
+33,male,6,YouTube,Travel,Australia,Urban,Software Engineer,14652,TRUE,TRUE,TRUE
+58,male,1,Facebook,Travel,United Kingdom,Urban,Student,16792,FALSE,TRUE,TRUE
+53,male,3,Facebook,Sports,United States,Urban,Marketer Manager,19247,FALSE,FALSE,FALSE
+50,male,2,YouTube,Sports,United States,Sub_Urban,Software Engineer,17456,TRUE,FALSE,TRUE
+21,male,7,Instagram,Sports,United States,Sub_Urban,Marketer Manager,14674,TRUE,TRUE,FALSE
+50,male,4,YouTube,Sports,United Kingdom,Rural,Student,10541,TRUE,TRUE,TRUE
+31,male,8,Instagram,Sports,United States,Sub_Urban,Marketer Manager,12161,TRUE,TRUE,FALSE
+38,male,6,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,12251,FALSE,TRUE,FALSE
+37,male,4,Facebook,Sports,United States,Sub_Urban,Software Engineer,19244,FALSE,FALSE,TRUE
+25,male,5,Instagram,Sports,United States,Rural,Marketer Manager,14569,TRUE,TRUE,FALSE
+24,male,9,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,12744,TRUE,TRUE,FALSE
+20,male,7,Instagram,Sports,United States,Sub_Urban,Marketer Manager,16041,FALSE,FALSE,FALSE
+34,male,9,Instagram,Travel,Australia,Rural,Software Engineer,14675,TRUE,TRUE,TRUE
+50,male,7,Facebook,Sports,United Kingdom,Rural,Student,11560,TRUE,TRUE,FALSE
+29,male,1,Instagram,Sports,United Kingdom,Rural,Student,11164,TRUE,FALSE,TRUE
+39,male,8,YouTube,Travel,United Kingdom,Urban,Marketer Manager,15419,TRUE,FALSE,TRUE
+39,male,4,YouTube,Travel,Australia,Sub_Urban,Software Engineer,12722,FALSE,TRUE,FALSE
+63,male,3,Facebook,Travel,United Kingdom,Rural,Marketer Manager,10470,TRUE,FALSE,TRUE
+47,male,7,Facebook,Travel,United States,Urban,Student,19608,FALSE,FALSE,FALSE
+55,male,3,Instagram,Sports,United States,Rural,Software Engineer,11468,TRUE,TRUE,TRUE
+55,male,8,Instagram,Travel,United States,Rural,Student,17925,TRUE,FALSE,FALSE
+62,male,6,Instagram,Travel,United Kingdom,Rural,Student,10808,FALSE,TRUE,TRUE
+25,male,5,Instagram,Lifestlye,United States,Rural,Software Engineer,18363,TRUE,TRUE,FALSE
+44,male,4,YouTube,Travel,United Kingdom,Rural,Software Engineer,16719,FALSE,TRUE,FALSE
+44,male,8,YouTube,Travel,United States,Urban,Marketer Manager,15073,TRUE,TRUE,FALSE
+51,male,8,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,18012,TRUE,FALSE,FALSE
+38,male,1,Instagram,Lifestlye,Australia,Sub_Urban,Student,11645,TRUE,TRUE,TRUE
+47,male,9,Instagram,Sports,Australia,Sub_Urban,Software Engineer,18249,TRUE,TRUE,TRUE
+50,male,5,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,11129,TRUE,TRUE,FALSE
+45,male,4,Instagram,Sports,United Kingdom,Urban,Marketer Manager,11353,FALSE,TRUE,TRUE
+64,male,6,Instagram,Lifestlye,United States,Urban,Student,10767,FALSE,FALSE,FALSE
+50,male,6,Instagram,Lifestlye,Australia,Urban,Student,13895,TRUE,FALSE,FALSE
+22,male,2,Instagram,Sports,United Kingdom,Rural,Marketer Manager,18874,TRUE,FALSE,TRUE
+36,male,8,Instagram,Lifestlye,Australia,Rural,Software Engineer,13454,FALSE,TRUE,TRUE
+21,male,7,Facebook,Sports,Australia,Rural,Marketer Manager,17329,FALSE,FALSE,FALSE
+52,male,1,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11790,TRUE,FALSE,TRUE
+34,male,5,Facebook,Travel,United Kingdom,Rural,Marketer Manager,19669,TRUE,TRUE,FALSE
+61,male,6,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,10885,FALSE,FALSE,TRUE
+45,male,4,YouTube,Sports,United States,Rural,Software Engineer,17734,TRUE,TRUE,TRUE
+47,male,2,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,13906,FALSE,FALSE,TRUE
+46,male,4,YouTube,Sports,Australia,Rural,Software Engineer,14492,TRUE,FALSE,TRUE
+63,male,1,YouTube,Sports,United States,Rural,Marketer Manager,19730,FALSE,FALSE,TRUE
+23,male,7,Facebook,Travel,United States,Urban,Student,12073,FALSE,FALSE,FALSE
+52,male,2,Facebook,Travel,United Kingdom,Rural,Software Engineer,10312,TRUE,TRUE,TRUE
+58,male,2,Instagram,Sports,United States,Rural,Student,16269,FALSE,TRUE,TRUE
+54,male,9,YouTube,Lifestlye,United States,Urban,Marketer Manager,15317,TRUE,FALSE,FALSE
+41,male,5,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,10810,TRUE,TRUE,FALSE
+46,male,2,Instagram,Sports,United States,Urban,Marketer Manager,16841,TRUE,FALSE,FALSE
+63,male,9,Instagram,Lifestlye,Australia,Urban,Software Engineer,12032,TRUE,FALSE,TRUE
+48,male,9,Facebook,Lifestlye,United States,Sub_Urban,Student,19699,FALSE,FALSE,TRUE
+52,male,1,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,17129,TRUE,FALSE,FALSE
+50,male,3,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,12705,TRUE,FALSE,FALSE
+38,male,4,YouTube,Sports,United States,Rural,Marketer Manager,18788,TRUE,FALSE,FALSE
+49,male,7,YouTube,Sports,United States,Rural,Student,12147,TRUE,TRUE,FALSE
+40,male,4,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,10615,FALSE,TRUE,TRUE
+50,male,2,Instagram,Sports,United Kingdom,Urban,Software Engineer,10947,TRUE,FALSE,TRUE
+20,male,7,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,15677,FALSE,TRUE,TRUE
+35,male,6,Instagram,Travel,Australia,Rural,Student,14651,FALSE,FALSE,TRUE
+42,male,3,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,17866,FALSE,TRUE,TRUE
+59,male,6,Instagram,Sports,Australia,Sub_Urban,Student,12013,TRUE,TRUE,FALSE
+48,male,6,YouTube,Travel,Australia,Rural,Student,13697,TRUE,TRUE,TRUE
+20,male,5,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,10490,TRUE,FALSE,FALSE
+57,male,4,YouTube,Travel,United States,Sub_Urban,Software Engineer,14350,TRUE,TRUE,FALSE
+63,male,1,YouTube,Travel,Australia,Rural,Marketer Manager,12428,FALSE,FALSE,FALSE
+41,male,6,Instagram,Sports,Australia,Rural,Software Engineer,14987,FALSE,FALSE,TRUE
+49,male,2,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,18733,TRUE,FALSE,FALSE
+64,male,3,YouTube,Travel,United States,Urban,Marketer Manager,19479,TRUE,TRUE,TRUE
+39,female,8,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,19825,TRUE,TRUE,FALSE
+40,male,6,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,14920,TRUE,TRUE,TRUE
+19,male,3,Instagram,Travel,United Kingdom,Urban,Marketer Manager,12926,TRUE,FALSE,FALSE
+44,male,7,Facebook,Travel,United States,Urban,Marketer Manager,19544,TRUE,FALSE,TRUE
+59,male,4,YouTube,Travel,Australia,Urban,Marketer Manager,17282,TRUE,TRUE,FALSE
+19,male,9,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,14376,FALSE,FALSE,FALSE
+43,male,5,YouTube,Lifestlye,United Kingdom,Rural,Student,19490,FALSE,TRUE,FALSE
+34,male,3,Instagram,Lifestlye,United States,Rural,Software Engineer,14868,FALSE,TRUE,FALSE
+57,male,2,Instagram,Lifestlye,Australia,Rural,Student,16986,FALSE,TRUE,TRUE
+50,male,2,Instagram,Sports,United Kingdom,Rural,Marketer Manager,16862,TRUE,TRUE,TRUE
+26,male,3,Instagram,Travel,Australia,Rural,Student,14423,TRUE,FALSE,TRUE
+60,male,2,Facebook,Lifestlye,Australia,Rural,Marketer Manager,16870,TRUE,TRUE,FALSE
+56,male,4,YouTube,Travel,United States,Sub_Urban,Marketer Manager,18159,TRUE,TRUE,FALSE
+46,male,2,YouTube,Travel,United States,Urban,Student,12073,TRUE,TRUE,FALSE
+59,male,9,YouTube,Sports,Australia,Rural,Marketer Manager,16170,FALSE,TRUE,FALSE
+43,male,2,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,10701,TRUE,TRUE,FALSE
+52,male,9,Facebook,Lifestlye,United States,Rural,Marketer Manager,18113,FALSE,TRUE,FALSE
+42,male,6,YouTube,Travel,Australia,Rural,Software Engineer,16825,TRUE,TRUE,TRUE
+41,male,1,Facebook,Lifestlye,United States,Urban,Software Engineer,17867,FALSE,FALSE,TRUE
+30,male,4,Instagram,Travel,United States,Urban,Marketer Manager,14264,TRUE,FALSE,TRUE
+24,male,1,YouTube,Travel,United States,Urban,Marketer Manager,17968,FALSE,FALSE,TRUE
+53,male,6,Facebook,Sports,Australia,Rural,Student,18146,TRUE,FALSE,TRUE
+62,male,4,Instagram,Sports,United Kingdom,Rural,Software Engineer,17776,TRUE,TRUE,TRUE
+37,male,3,Facebook,Sports,United Kingdom,Rural,Student,18558,TRUE,FALSE,TRUE
+18,male,3,YouTube,Travel,United Kingdom,Urban,Marketer Manager,18719,TRUE,FALSE,TRUE
+25,male,9,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,14886,FALSE,FALSE,FALSE
+63,male,6,Instagram,Sports,Australia,Rural,Student,13935,TRUE,TRUE,FALSE
+33,male,9,Instagram,Lifestlye,United States,Rural,Marketer Manager,14619,FALSE,FALSE,FALSE
+31,male,5,Instagram,Sports,United Kingdom,Rural,Software Engineer,15191,TRUE,FALSE,FALSE
+29,male,2,Facebook,Sports,United Kingdom,Sub_Urban,Student,16875,FALSE,TRUE,FALSE
+40,male,8,Facebook,Travel,Australia,Rural,Software Engineer,17856,TRUE,FALSE,FALSE
+32,male,5,Facebook,Sports,United States,Sub_Urban,Software Engineer,15401,TRUE,TRUE,FALSE
+45,male,2,Instagram,Sports,United Kingdom,Rural,Software Engineer,13022,FALSE,FALSE,TRUE
+51,male,4,YouTube,Travel,Australia,Sub_Urban,Student,15738,TRUE,TRUE,TRUE
+19,male,9,YouTube,Lifestlye,United States,Rural,Marketer Manager,15984,TRUE,FALSE,FALSE
+49,male,4,Facebook,Sports,United States,Urban,Software Engineer,11770,FALSE,FALSE,TRUE
+40,male,4,Facebook,Travel,United Kingdom,Urban,Software Engineer,19969,TRUE,FALSE,TRUE
+39,male,2,YouTube,Sports,United Kingdom,Urban,Software Engineer,18989,FALSE,TRUE,TRUE
+42,male,6,YouTube,Travel,United States,Urban,Marketer Manager,13215,TRUE,FALSE,TRUE
+39,male,2,Facebook,Lifestlye,United States,Rural,Marketer Manager,16694,FALSE,TRUE,TRUE
+39,male,7,Facebook,Lifestlye,United Kingdom,Urban,Student,12976,FALSE,TRUE,FALSE
+59,male,3,YouTube,Travel,United States,Sub_Urban,Marketer Manager,13737,FALSE,TRUE,TRUE
+23,male,3,Instagram,Travel,United Kingdom,Urban,Student,19903,FALSE,TRUE,FALSE
+32,male,5,Facebook,Travel,United States,Urban,Student,10752,TRUE,FALSE,FALSE
+60,male,3,YouTube,Lifestlye,United Kingdom,Urban,Student,11392,TRUE,FALSE,FALSE
+54,male,2,YouTube,Sports,Australia,Rural,Student,16789,FALSE,FALSE,TRUE
+50,male,9,YouTube,Lifestlye,United Kingdom,Urban,Student,10677,TRUE,TRUE,FALSE
+25,male,2,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,10105,TRUE,FALSE,FALSE
+61,male,2,Instagram,Travel,Australia,Urban,Marketer Manager,14753,TRUE,TRUE,FALSE
+61,male,8,YouTube,Lifestlye,United States,Urban,Software Engineer,11946,FALSE,TRUE,FALSE
+22,female,9,Facebook,Travel,Australia,Urban,Student,15544,TRUE,TRUE,TRUE
+56,male,7,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11095,TRUE,FALSE,FALSE
+21,male,3,YouTube,Travel,United States,Urban,Software Engineer,16985,FALSE,FALSE,FALSE
+23,male,9,Instagram,Sports,Australia,Sub_Urban,Software Engineer,11782,TRUE,TRUE,FALSE
+62,male,3,Facebook,Sports,United States,Sub_Urban,Student,14541,FALSE,FALSE,FALSE
+49,male,5,YouTube,Travel,United States,Urban,Software Engineer,13257,FALSE,FALSE,TRUE
+47,male,9,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,16213,FALSE,TRUE,FALSE
+64,male,3,YouTube,Sports,United States,Rural,Software Engineer,14869,TRUE,TRUE,FALSE
+52,male,7,YouTube,Lifestlye,Australia,Urban,Software Engineer,11561,TRUE,FALSE,FALSE
+57,male,1,YouTube,Travel,United Kingdom,Urban,Software Engineer,14006,FALSE,TRUE,FALSE
+33,male,4,YouTube,Lifestlye,United States,Sub_Urban,Student,19867,FALSE,TRUE,FALSE
+30,male,4,YouTube,Sports,United Kingdom,Sub_Urban,Student,19314,FALSE,FALSE,FALSE
+59,male,7,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,13981,FALSE,FALSE,TRUE
+47,male,8,YouTube,Lifestlye,United States,Rural,Student,19493,FALSE,TRUE,FALSE
+36,male,1,YouTube,Travel,Australia,Sub_Urban,Student,15682,FALSE,FALSE,TRUE
+34,male,5,Instagram,Travel,United States,Sub_Urban,Marketer Manager,15782,TRUE,TRUE,TRUE
+36,male,7,Instagram,Travel,United Kingdom,Rural,Software Engineer,10943,FALSE,TRUE,FALSE
+45,male,4,Instagram,Sports,United Kingdom,Rural,Student,14550,FALSE,FALSE,TRUE
+43,male,4,Instagram,Sports,Australia,Urban,Student,19137,FALSE,TRUE,FALSE
+54,male,4,Instagram,Travel,United States,Rural,Software Engineer,10600,TRUE,TRUE,TRUE
+43,male,6,Instagram,Travel,United Kingdom,Urban,Marketer Manager,16376,TRUE,TRUE,FALSE
+40,male,7,YouTube,Sports,United Kingdom,Rural,Software Engineer,19609,TRUE,FALSE,TRUE
+26,male,2,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,11524,TRUE,FALSE,TRUE
+29,male,5,Facebook,Sports,Australia,Urban,Software Engineer,13766,FALSE,FALSE,FALSE
+18,male,4,YouTube,Sports,United Kingdom,Urban,Software Engineer,10250,TRUE,TRUE,TRUE
+18,male,3,YouTube,Travel,United Kingdom,Urban,Software Engineer,19736,FALSE,TRUE,TRUE
+64,male,7,Instagram,Sports,United States,Rural,Software Engineer,10078,FALSE,FALSE,TRUE
+51,male,6,Instagram,Travel,United States,Sub_Urban,Marketer Manager,13123,FALSE,FALSE,TRUE
+49,male,7,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,19089,FALSE,FALSE,TRUE
+42,male,5,Facebook,Lifestlye,United Kingdom,Urban,Student,17064,FALSE,TRUE,FALSE
+57,male,6,Instagram,Sports,United States,Urban,Software Engineer,18417,FALSE,FALSE,TRUE
+62,male,5,YouTube,Lifestlye,Australia,Urban,Marketer Manager,11209,TRUE,TRUE,TRUE
+18,male,7,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,15153,TRUE,FALSE,FALSE
+33,male,2,Facebook,Lifestlye,Australia,Rural,Marketer Manager,14898,TRUE,TRUE,FALSE
+56,male,5,Facebook,Sports,Australia,Sub_Urban,Software Engineer,12178,TRUE,TRUE,FALSE
+22,male,6,Instagram,Sports,Australia,Urban,Student,17610,TRUE,FALSE,TRUE
+39,male,6,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,18895,FALSE,TRUE,TRUE
+46,male,5,YouTube,Travel,Australia,Urban,Software Engineer,12544,TRUE,FALSE,TRUE
+20,male,7,YouTube,Lifestlye,Australia,Rural,Marketer Manager,15522,TRUE,TRUE,TRUE
+29,male,8,Facebook,Sports,United States,Rural,Marketer Manager,12370,TRUE,TRUE,FALSE
+43,male,7,Facebook,Sports,Australia,Rural,Student,13281,FALSE,FALSE,FALSE
+33,male,5,Facebook,Sports,Australia,Urban,Marketer Manager,14710,FALSE,TRUE,TRUE
+54,male,1,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,10328,FALSE,FALSE,TRUE
+39,male,5,Instagram,Travel,United Kingdom,Rural,Software Engineer,15579,TRUE,FALSE,TRUE
+46,male,2,Facebook,Sports,United States,Urban,Software Engineer,14228,TRUE,FALSE,TRUE
+31,male,5,Instagram,Sports,United States,Urban,Student,16794,TRUE,TRUE,FALSE
+45,male,5,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,10120,TRUE,TRUE,FALSE
+22,male,2,Facebook,Travel,Australia,Rural,Software Engineer,16749,TRUE,TRUE,TRUE
+64,male,5,Instagram,Lifestlye,Australia,Urban,Student,10964,FALSE,FALSE,FALSE
+47,male,4,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,14224,TRUE,FALSE,TRUE
+63,male,1,YouTube,Travel,United States,Rural,Student,13675,FALSE,TRUE,TRUE
+22,male,3,YouTube,Travel,Australia,Sub_Urban,Software Engineer,15694,TRUE,TRUE,FALSE
+29,male,1,YouTube,Sports,United States,Sub_Urban,Student,12076,FALSE,FALSE,TRUE
+33,male,5,Facebook,Travel,United Kingdom,Urban,Marketer Manager,16865,FALSE,TRUE,FALSE
+43,female,4,Facebook,Travel,United Kingdom,Urban,Student,15643,FALSE,FALSE,TRUE
+43,male,7,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,18524,FALSE,TRUE,FALSE
+38,male,5,YouTube,Sports,United States,Sub_Urban,Software Engineer,15249,TRUE,FALSE,TRUE
+56,male,4,Facebook,Sports,Australia,Urban,Student,11316,TRUE,TRUE,FALSE
+53,male,2,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,11196,TRUE,TRUE,TRUE
+50,male,4,YouTube,Sports,United Kingdom,Sub_Urban,Student,13170,FALSE,FALSE,TRUE
+47,male,2,Instagram,Sports,Australia,Urban,Marketer Manager,19621,TRUE,FALSE,FALSE
+54,male,8,Instagram,Travel,United Kingdom,Rural,Marketer Manager,10355,TRUE,FALSE,TRUE
+40,male,3,Instagram,Lifestlye,United States,Rural,Student,19718,TRUE,TRUE,FALSE
+27,male,9,Instagram,Sports,United Kingdom,Rural,Marketer Manager,10028,TRUE,FALSE,FALSE
+22,male,4,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,11013,FALSE,FALSE,TRUE
+53,male,6,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,19019,FALSE,TRUE,TRUE
+51,male,5,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,12024,TRUE,FALSE,TRUE
+48,male,1,Instagram,Sports,Australia,Urban,Software Engineer,18490,TRUE,FALSE,TRUE
+27,male,9,Instagram,Travel,United Kingdom,Sub_Urban,Student,15839,TRUE,FALSE,FALSE
+36,male,1,YouTube,Sports,Australia,Urban,Software Engineer,15791,FALSE,TRUE,TRUE
+49,male,8,Instagram,Travel,Australia,Urban,Software Engineer,10754,FALSE,TRUE,TRUE
+18,male,9,YouTube,Lifestlye,Australia,Rural,Software Engineer,18961,FALSE,TRUE,TRUE
+22,male,9,Facebook,Sports,United States,Rural,Marketer Manager,13735,TRUE,FALSE,FALSE
+62,male,1,YouTube,Lifestlye,Australia,Rural,Student,11238,FALSE,TRUE,TRUE
+21,male,2,YouTube,Lifestlye,United States,Urban,Student,11906,FALSE,FALSE,FALSE
+33,male,1,Instagram,Travel,United Kingdom,Urban,Marketer Manager,17399,FALSE,FALSE,TRUE
+41,male,2,Facebook,Sports,Australia,Urban,Student,17961,FALSE,FALSE,FALSE
+33,male,8,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,19756,FALSE,TRUE,TRUE
+19,male,5,Facebook,Travel,Australia,Urban,Student,19410,TRUE,TRUE,TRUE
+45,male,7,Facebook,Sports,United Kingdom,Rural,Marketer Manager,14601,TRUE,FALSE,FALSE
+49,male,2,YouTube,Sports,United States,Rural,Software Engineer,19549,TRUE,FALSE,TRUE
+44,male,8,Facebook,Lifestlye,United States,Urban,Marketer Manager,11460,TRUE,TRUE,TRUE
+37,male,6,YouTube,Sports,Australia,Urban,Software Engineer,17669,FALSE,TRUE,TRUE
+41,male,8,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,11416,TRUE,TRUE,FALSE
+29,male,1,YouTube,Sports,United Kingdom,Urban,Student,17766,TRUE,FALSE,TRUE
+52,male,1,Facebook,Travel,United Kingdom,Rural,Software Engineer,11428,TRUE,TRUE,FALSE
+50,male,7,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,14378,FALSE,TRUE,FALSE
+50,male,8,Instagram,Lifestlye,United Kingdom,Rural,Student,17529,TRUE,TRUE,FALSE
+60,male,3,Facebook,Sports,United States,Sub_Urban,Marketer Manager,14474,FALSE,FALSE,TRUE
+54,male,5,Instagram,Sports,United States,Urban,Software Engineer,13071,FALSE,TRUE,FALSE
+29,male,1,Instagram,Lifestlye,United States,Urban,Marketer Manager,10555,FALSE,FALSE,FALSE
+20,male,7,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,18547,TRUE,FALSE,TRUE
+18,male,5,YouTube,Travel,United Kingdom,Urban,Software Engineer,11563,FALSE,FALSE,FALSE
+50,male,8,Facebook,Sports,Australia,Sub_Urban,Student,11040,TRUE,TRUE,FALSE
+57,male,8,Facebook,Travel,United Kingdom,Urban,Marketer Manager,12686,TRUE,TRUE,TRUE
+27,male,9,Instagram,Travel,United States,Rural,Software Engineer,12553,TRUE,TRUE,TRUE
+60,male,7,YouTube,Travel,Australia,Urban,Student,11779,FALSE,FALSE,FALSE
+61,male,1,Facebook,Travel,United States,Rural,Student,10075,FALSE,TRUE,TRUE
+46,male,3,Facebook,Travel,United Kingdom,Rural,Student,14326,TRUE,FALSE,TRUE
+30,male,8,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,15835,FALSE,TRUE,TRUE
+29,male,3,Facebook,Travel,United Kingdom,Urban,Marketer Manager,15057,FALSE,TRUE,FALSE
+48,male,8,Facebook,Sports,United States,Sub_Urban,Marketer Manager,12349,FALSE,TRUE,FALSE
+63,male,1,Facebook,Travel,United Kingdom,Urban,Student,12773,TRUE,TRUE,TRUE
+19,male,5,Instagram,Lifestlye,United States,Rural,Marketer Manager,12262,FALSE,FALSE,FALSE
+52,male,4,YouTube,Travel,Australia,Rural,Software Engineer,13229,FALSE,FALSE,TRUE
+40,male,5,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,10392,TRUE,FALSE,TRUE
+34,male,8,Facebook,Travel,United Kingdom,Urban,Marketer Manager,11108,FALSE,FALSE,TRUE
+43,male,4,YouTube,Travel,United Kingdom,Sub_Urban,Student,14362,TRUE,TRUE,TRUE
+25,male,4,YouTube,Travel,Australia,Urban,Marketer Manager,15188,FALSE,FALSE,TRUE
+46,male,3,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,18802,FALSE,FALSE,FALSE
+43,male,7,Facebook,Lifestlye,United States,Urban,Student,15057,FALSE,FALSE,FALSE
+27,male,3,Facebook,Travel,United States,Sub_Urban,Software Engineer,13998,FALSE,TRUE,FALSE
+43,female,3,YouTube,Sports,United Kingdom,Urban,Student,18864,FALSE,FALSE,FALSE
+51,female,5,YouTube,Travel,United Kingdom,Rural,Student,16566,FALSE,FALSE,TRUE
+58,male,5,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,13677,TRUE,TRUE,TRUE
+24,female,6,Instagram,Travel,Australia,Sub_Urban,Software Engineer,15796,FALSE,TRUE,FALSE
+21,male,8,YouTube,Lifestlye,Australia,Rural,Student,16363,FALSE,FALSE,FALSE
+62,male,6,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,18123,FALSE,FALSE,TRUE
+28,male,1,YouTube,Lifestlye,Australia,Rural,Student,18222,TRUE,TRUE,TRUE
+46,male,8,Instagram,Travel,Australia,Urban,Student,17690,TRUE,FALSE,TRUE
+53,male,8,Instagram,Lifestlye,United States,Rural,Student,11400,TRUE,TRUE,FALSE
+42,male,9,Instagram,Lifestlye,Australia,Urban,Student,14071,FALSE,FALSE,TRUE
+38,male,9,Facebook,Travel,United States,Sub_Urban,Student,18808,FALSE,FALSE,TRUE
+53,male,2,Instagram,Lifestlye,United States,Sub_Urban,Student,12786,TRUE,FALSE,FALSE
+27,male,2,Instagram,Travel,Australia,Rural,Marketer Manager,17169,TRUE,FALSE,FALSE
+54,male,3,Instagram,Lifestlye,United States,Urban,Student,10870,TRUE,FALSE,FALSE
+26,male,1,YouTube,Sports,United Kingdom,Rural,Software Engineer,14196,FALSE,TRUE,TRUE
+41,male,4,Instagram,Sports,United Kingdom,Rural,Marketer Manager,19604,TRUE,TRUE,TRUE
+52,male,4,YouTube,Lifestlye,Australia,Urban,Software Engineer,12739,FALSE,FALSE,FALSE
+52,male,9,Instagram,Sports,United Kingdom,Rural,Student,10940,FALSE,FALSE,TRUE
+53,male,9,Instagram,Travel,United States,Sub_Urban,Software Engineer,10340,FALSE,FALSE,TRUE
+35,male,9,Facebook,Sports,United Kingdom,Rural,Student,17422,TRUE,TRUE,TRUE
+56,male,7,YouTube,Lifestlye,Australia,Urban,Student,14133,FALSE,TRUE,FALSE
+49,male,2,Instagram,Lifestlye,Australia,Urban,Marketer Manager,10659,TRUE,TRUE,FALSE
+41,male,5,YouTube,Travel,United States,Sub_Urban,Marketer Manager,19752,TRUE,TRUE,TRUE
+40,male,4,YouTube,Lifestlye,Australia,Urban,Student,13457,TRUE,TRUE,TRUE
+49,male,8,Facebook,Travel,United Kingdom,Urban,Marketer Manager,19848,TRUE,TRUE,TRUE
+54,male,2,Facebook,Sports,Australia,Sub_Urban,Software Engineer,12975,FALSE,TRUE,TRUE
+29,male,6,Facebook,Sports,United States,Rural,Marketer Manager,19241,FALSE,TRUE,FALSE
+30,male,5,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,10453,FALSE,FALSE,FALSE
+40,male,2,Facebook,Travel,United Kingdom,Rural,Software Engineer,19896,FALSE,TRUE,TRUE
+42,male,1,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,18184,TRUE,TRUE,TRUE
+52,male,8,Facebook,Sports,United Kingdom,Rural,Student,15442,TRUE,TRUE,FALSE
+58,male,2,Facebook,Travel,United States,Sub_Urban,Software Engineer,10818,TRUE,TRUE,TRUE
+47,male,7,Instagram,Sports,Australia,Rural,Student,14868,TRUE,FALSE,FALSE
+34,male,9,YouTube,Travel,United States,Sub_Urban,Software Engineer,10012,FALSE,TRUE,TRUE
+37,male,9,Facebook,Sports,United States,Rural,Student,17727,TRUE,FALSE,FALSE
+42,male,8,Facebook,Lifestlye,Australia,Sub_Urban,Student,10920,FALSE,FALSE,TRUE
+39,male,9,YouTube,Sports,United Kingdom,Urban,Marketer Manager,14920,TRUE,FALSE,TRUE
+30,male,2,Instagram,Sports,Australia,Rural,Student,12418,TRUE,TRUE,FALSE
+36,male,6,YouTube,Sports,United States,Sub_Urban,Marketer Manager,19506,TRUE,TRUE,FALSE
+53,male,4,YouTube,Sports,Australia,Rural,Software Engineer,16475,TRUE,TRUE,TRUE
+29,male,4,Facebook,Sports,United States,Rural,Student,12017,FALSE,FALSE,TRUE
+58,male,5,YouTube,Lifestlye,Australia,Sub_Urban,Student,17957,FALSE,FALSE,FALSE
+36,male,3,YouTube,Travel,Australia,Rural,Software Engineer,19420,FALSE,FALSE,FALSE
+29,male,1,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,14792,FALSE,FALSE,TRUE
+26,male,8,Facebook,Lifestlye,United States,Urban,Student,16830,TRUE,TRUE,TRUE
+24,male,5,Facebook,Sports,United Kingdom,Rural,Software Engineer,12434,TRUE,TRUE,FALSE
+45,male,3,Facebook,Sports,United States,Urban,Marketer Manager,12868,FALSE,TRUE,FALSE
+31,male,7,YouTube,Travel,Australia,Rural,Software Engineer,11438,FALSE,FALSE,FALSE
+48,male,7,YouTube,Sports,United States,Rural,Software Engineer,13543,TRUE,FALSE,FALSE
+36,male,1,Instagram,Lifestlye,United Kingdom,Rural,Student,11781,TRUE,TRUE,FALSE
+64,male,9,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,16343,FALSE,TRUE,TRUE
+33,male,2,YouTube,Travel,United Kingdom,Urban,Software Engineer,12263,FALSE,FALSE,TRUE
+22,male,5,Instagram,Sports,United States,Rural,Marketer Manager,10211,FALSE,TRUE,FALSE
+52,male,5,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,18699,TRUE,TRUE,TRUE
+29,male,8,Instagram,Sports,United Kingdom,Rural,Marketer Manager,16159,FALSE,FALSE,TRUE
+42,male,8,Facebook,Sports,United Kingdom,Sub_Urban,Student,17027,FALSE,FALSE,FALSE
+38,male,7,Instagram,Sports,Australia,Rural,Software Engineer,10331,FALSE,FALSE,TRUE
+53,male,7,Facebook,Travel,Australia,Urban,Student,16860,FALSE,TRUE,TRUE
+40,male,6,Facebook,Sports,United States,Urban,Software Engineer,18044,FALSE,FALSE,TRUE
+33,male,6,Facebook,Lifestlye,United States,Rural,Software Engineer,18169,TRUE,TRUE,FALSE
+56,male,9,Facebook,Sports,United Kingdom,Sub_Urban,Student,18742,FALSE,TRUE,FALSE
+62,male,6,Instagram,Lifestlye,Australia,Rural,Marketer Manager,15720,TRUE,FALSE,TRUE
+59,male,2,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,19133,FALSE,TRUE,TRUE
+56,male,2,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,10727,FALSE,FALSE,TRUE
+31,male,5,Instagram,Lifestlye,Australia,Sub_Urban,Student,14975,FALSE,FALSE,TRUE
+48,male,4,Facebook,Sports,Australia,Urban,Marketer Manager,13243,TRUE,TRUE,TRUE
+22,male,2,Instagram,Sports,Australia,Rural,Marketer Manager,10648,TRUE,TRUE,TRUE
+52,male,3,Instagram,Lifestlye,United States,Urban,Software Engineer,15095,TRUE,FALSE,FALSE
+40,male,7,Instagram,Travel,United States,Urban,Software Engineer,16614,FALSE,FALSE,TRUE
+46,male,8,YouTube,Sports,United Kingdom,Rural,Student,17135,FALSE,FALSE,TRUE
+60,male,6,Instagram,Travel,United States,Rural,Software Engineer,11009,TRUE,FALSE,FALSE
+28,male,5,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,11550,TRUE,FALSE,TRUE
+35,male,1,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,18995,FALSE,FALSE,TRUE
+64,male,8,YouTube,Sports,United States,Urban,Marketer Manager,17492,TRUE,TRUE,TRUE
+29,male,3,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,13401,FALSE,TRUE,TRUE
+26,male,6,YouTube,Travel,United Kingdom,Sub_Urban,Student,17447,TRUE,TRUE,FALSE
+27,male,3,Facebook,Sports,United States,Rural,Student,15424,TRUE,TRUE,TRUE
+61,male,7,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,14241,TRUE,FALSE,FALSE
+34,male,7,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,13161,FALSE,TRUE,TRUE
+55,male,9,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,14155,FALSE,TRUE,TRUE
+24,male,5,Instagram,Sports,Australia,Urban,Student,17478,TRUE,FALSE,FALSE
+63,male,8,YouTube,Lifestlye,Australia,Rural,Marketer Manager,18719,FALSE,TRUE,TRUE
+30,male,8,Instagram,Travel,United States,Urban,Software Engineer,19215,FALSE,FALSE,FALSE
+57,male,1,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,16617,FALSE,FALSE,FALSE
+59,male,5,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,15660,FALSE,FALSE,FALSE
+26,male,3,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,18624,TRUE,FALSE,TRUE
+44,male,1,Instagram,Travel,United States,Rural,Software Engineer,11176,FALSE,FALSE,TRUE
+19,male,4,Facebook,Sports,Australia,Rural,Software Engineer,17956,FALSE,TRUE,TRUE
+22,male,8,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,18592,TRUE,TRUE,TRUE
+46,male,3,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,12233,FALSE,TRUE,FALSE
+54,male,2,Instagram,Lifestlye,United States,Rural,Software Engineer,14700,FALSE,FALSE,TRUE
+55,male,9,Instagram,Lifestlye,Australia,Rural,Marketer Manager,15906,FALSE,TRUE,TRUE
+36,male,5,YouTube,Sports,Australia,Sub_Urban,Student,17860,TRUE,TRUE,FALSE
+25,male,7,Instagram,Travel,Australia,Urban,Software Engineer,17526,TRUE,TRUE,FALSE
+62,male,2,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,15559,FALSE,TRUE,TRUE
+18,male,9,Facebook,Sports,United States,Rural,Student,16732,FALSE,FALSE,FALSE
+39,male,9,YouTube,Travel,Australia,Sub_Urban,Student,12513,TRUE,TRUE,FALSE
+34,male,4,YouTube,Lifestlye,United Kingdom,Urban,Student,17830,TRUE,FALSE,FALSE
+24,male,4,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,19965,TRUE,FALSE,FALSE
+42,male,6,Instagram,Travel,United Kingdom,Rural,Software Engineer,16944,FALSE,TRUE,FALSE
+62,male,6,YouTube,Travel,Australia,Sub_Urban,Software Engineer,17910,FALSE,FALSE,TRUE
+21,male,1,Instagram,Lifestlye,Australia,Rural,Marketer Manager,15649,TRUE,FALSE,TRUE
+53,male,9,Instagram,Sports,Australia,Rural,Software Engineer,11096,FALSE,FALSE,TRUE
+23,male,2,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,19120,FALSE,FALSE,TRUE
+48,male,5,YouTube,Sports,Australia,Rural,Software Engineer,11951,FALSE,FALSE,TRUE
+36,male,9,Instagram,Sports,Australia,Rural,Student,19746,FALSE,FALSE,TRUE
+61,male,4,YouTube,Sports,Australia,Urban,Software Engineer,19186,FALSE,FALSE,TRUE
+56,male,3,Instagram,Travel,Australia,Urban,Marketer Manager,17799,FALSE,TRUE,FALSE
+44,male,7,Facebook,Travel,Australia,Urban,Marketer Manager,18804,FALSE,TRUE,TRUE
+27,male,6,Instagram,Sports,United Kingdom,Urban,Student,10595,TRUE,FALSE,TRUE
+43,male,8,Instagram,Sports,Australia,Rural,Marketer Manager,17875,TRUE,FALSE,TRUE
+36,male,3,YouTube,Travel,United States,Sub_Urban,Software Engineer,19033,TRUE,TRUE,FALSE
+56,male,5,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,14439,TRUE,TRUE,TRUE
+20,male,4,Instagram,Sports,Australia,Rural,Student,15972,TRUE,TRUE,TRUE
+62,male,4,Facebook,Lifestlye,United States,Rural,Marketer Manager,10858,TRUE,TRUE,FALSE
+30,male,4,Instagram,Travel,Australia,Sub_Urban,Student,15519,TRUE,FALSE,TRUE
+45,male,8,Instagram,Sports,United States,Urban,Software Engineer,17385,TRUE,FALSE,TRUE
+37,male,6,Facebook,Lifestlye,United States,Rural,Student,18636,TRUE,TRUE,FALSE
+45,male,3,YouTube,Lifestlye,United States,Rural,Marketer Manager,19980,FALSE,TRUE,TRUE
+25,male,5,Instagram,Lifestlye,United States,Urban,Student,14317,FALSE,TRUE,FALSE
+58,male,6,YouTube,Travel,United Kingdom,Rural,Marketer Manager,13454,TRUE,TRUE,TRUE
+56,male,5,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,11030,FALSE,FALSE,TRUE
+18,male,6,Facebook,Lifestlye,United States,Rural,Software Engineer,19487,FALSE,TRUE,TRUE
+20,male,8,Facebook,Lifestlye,Australia,Rural,Software Engineer,17906,TRUE,TRUE,FALSE
+30,male,7,YouTube,Travel,United States,Urban,Software Engineer,11447,TRUE,TRUE,FALSE
+45,male,5,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,12850,TRUE,FALSE,FALSE
+42,male,6,YouTube,Lifestlye,Australia,Rural,Student,18106,FALSE,FALSE,TRUE
+50,male,4,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,17151,FALSE,FALSE,TRUE
+55,male,9,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,19503,TRUE,TRUE,FALSE
+23,male,4,Facebook,Lifestlye,Australia,Urban,Software Engineer,16952,FALSE,TRUE,FALSE
+61,male,1,Instagram,Lifestlye,United States,Sub_Urban,Student,14055,FALSE,TRUE,TRUE
+62,male,7,Instagram,Travel,United States,Rural,Software Engineer,15402,FALSE,FALSE,TRUE
+49,male,7,YouTube,Lifestlye,United States,Urban,Software Engineer,19281,TRUE,FALSE,TRUE
+62,male,4,Facebook,Travel,United States,Urban,Software Engineer,11672,FALSE,TRUE,TRUE
+64,male,3,Instagram,Travel,Australia,Rural,Student,14532,FALSE,TRUE,FALSE
+38,male,8,Instagram,Sports,Australia,Rural,Marketer Manager,14924,FALSE,FALSE,TRUE
+33,male,5,Facebook,Sports,Australia,Urban,Software Engineer,16085,FALSE,TRUE,TRUE
+38,male,7,YouTube,Lifestlye,United Kingdom,Rural,Student,17734,FALSE,TRUE,TRUE
+28,male,4,Facebook,Travel,Australia,Urban,Software Engineer,14864,FALSE,TRUE,TRUE
+54,male,4,Facebook,Sports,United States,Rural,Student,19316,FALSE,FALSE,TRUE
+53,male,8,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,11221,TRUE,TRUE,TRUE
+52,male,8,Instagram,Sports,United States,Sub_Urban,Student,12860,TRUE,TRUE,TRUE
+36,male,2,YouTube,Sports,United States,Rural,Software Engineer,18428,FALSE,TRUE,FALSE
+37,male,2,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,19336,TRUE,TRUE,FALSE
+35,male,3,Instagram,Travel,Australia,Rural,Software Engineer,13253,FALSE,FALSE,FALSE
+64,male,3,Facebook,Sports,United States,Urban,Student,13782,FALSE,FALSE,TRUE
+58,male,1,Instagram,Sports,United States,Urban,Software Engineer,16957,FALSE,FALSE,FALSE
+31,male,3,YouTube,Travel,United Kingdom,Rural,Marketer Manager,10766,TRUE,TRUE,TRUE
+32,male,6,Facebook,Lifestlye,Australia,Rural,Software Engineer,12681,FALSE,FALSE,TRUE
+48,male,8,YouTube,Travel,United Kingdom,Urban,Student,17710,FALSE,TRUE,TRUE
+18,male,6,Facebook,Sports,United Kingdom,Rural,Student,17482,TRUE,FALSE,TRUE
+20,male,5,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,15086,TRUE,TRUE,FALSE
+33,male,4,Facebook,Sports,United States,Sub_Urban,Student,17964,FALSE,FALSE,TRUE
+40,male,3,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,12665,TRUE,FALSE,TRUE
+28,male,4,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,19951,TRUE,FALSE,FALSE
+29,male,7,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,13513,FALSE,TRUE,FALSE
+27,male,1,YouTube,Lifestlye,Australia,Rural,Student,10495,FALSE,TRUE,FALSE
+49,male,7,YouTube,Sports,Australia,Rural,Software Engineer,15822,FALSE,TRUE,TRUE
+33,male,1,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,12072,TRUE,FALSE,FALSE
+25,male,2,Instagram,Travel,United States,Rural,Software Engineer,17795,TRUE,TRUE,TRUE
+55,male,4,Instagram,Sports,Australia,Rural,Marketer Manager,18529,TRUE,TRUE,TRUE
+29,male,1,Facebook,Travel,United Kingdom,Sub_Urban,Student,13949,FALSE,TRUE,FALSE
+41,male,9,Facebook,Sports,United Kingdom,Rural,Student,16033,TRUE,TRUE,FALSE
+45,male,6,Facebook,Lifestlye,United States,Rural,Student,18328,TRUE,TRUE,FALSE
+25,male,1,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,12555,FALSE,TRUE,TRUE
+45,male,1,YouTube,Lifestlye,Australia,Sub_Urban,Student,16370,FALSE,FALSE,TRUE
+53,male,6,Instagram,Sports,United States,Rural,Marketer Manager,14415,FALSE,FALSE,TRUE
+43,male,4,Facebook,Travel,Australia,Urban,Marketer Manager,15959,TRUE,TRUE,TRUE
+25,male,4,Facebook,Travel,Australia,Urban,Student,19107,FALSE,FALSE,TRUE
+45,male,6,Instagram,Sports,Australia,Sub_Urban,Software Engineer,15993,TRUE,FALSE,TRUE
+45,male,7,Instagram,Sports,United Kingdom,Urban,Software Engineer,15021,TRUE,TRUE,FALSE
+54,male,9,Facebook,Travel,United Kingdom,Sub_Urban,Student,12907,FALSE,TRUE,TRUE
+58,male,5,Facebook,Travel,Australia,Urban,Student,12914,FALSE,FALSE,FALSE
+53,male,9,Facebook,Travel,Australia,Urban,Marketer Manager,13870,FALSE,TRUE,FALSE
+44,male,4,Instagram,Travel,United States,Urban,Student,19190,FALSE,FALSE,FALSE
+34,male,2,Facebook,Sports,United States,Sub_Urban,Marketer Manager,15085,FALSE,FALSE,FALSE
+26,male,3,Facebook,Sports,United Kingdom,Sub_Urban,Student,16546,TRUE,FALSE,FALSE
+50,male,1,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,10395,TRUE,TRUE,TRUE
+37,male,6,Instagram,Travel,United States,Sub_Urban,Software Engineer,10938,TRUE,FALSE,TRUE
+30,male,6,YouTube,Lifestlye,Australia,Urban,Student,19828,FALSE,TRUE,TRUE
+45,male,1,YouTube,Sports,United Kingdom,Urban,Marketer Manager,12510,TRUE,TRUE,TRUE
+46,female,3,Facebook,Sports,Australia,Sub_Urban,Software Engineer,14636,FALSE,TRUE,FALSE
+30,male,5,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,11649,FALSE,TRUE,FALSE
+63,male,3,Facebook,Travel,United Kingdom,Sub_Urban,Student,13690,TRUE,TRUE,FALSE
+52,male,3,Instagram,Travel,United Kingdom,Rural,Student,13435,TRUE,FALSE,TRUE
+23,female,3,YouTube,Travel,United States,Urban,Software Engineer,13201,FALSE,TRUE,TRUE
+35,male,5,Instagram,Travel,United Kingdom,Rural,Student,14179,TRUE,TRUE,TRUE
+22,male,5,Facebook,Lifestlye,United States,Rural,Software Engineer,18405,FALSE,TRUE,TRUE
+64,male,4,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,13237,TRUE,TRUE,FALSE
+42,male,1,Facebook,Sports,United States,Urban,Software Engineer,13862,TRUE,TRUE,FALSE
+19,male,5,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,10058,TRUE,FALSE,TRUE
+27,male,5,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,14938,TRUE,TRUE,TRUE
+47,male,4,YouTube,Travel,Australia,Rural,Software Engineer,12971,TRUE,TRUE,FALSE
+62,male,6,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,19719,FALSE,FALSE,FALSE
+22,male,4,Facebook,Travel,United Kingdom,Sub_Urban,Student,18314,TRUE,TRUE,FALSE
+50,male,7,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,19628,TRUE,FALSE,FALSE
+18,male,7,Facebook,Travel,Australia,Urban,Software Engineer,19354,TRUE,FALSE,TRUE
+35,male,2,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,13345,FALSE,FALSE,FALSE
+49,male,3,Facebook,Sports,United States,Urban,Marketer Manager,12486,FALSE,FALSE,FALSE
+64,male,1,YouTube,Travel,United States,Sub_Urban,Software Engineer,10561,FALSE,TRUE,FALSE
+28,male,8,YouTube,Travel,United States,Urban,Student,13981,FALSE,TRUE,FALSE
+38,male,9,Facebook,Sports,Australia,Urban,Marketer Manager,16261,FALSE,FALSE,TRUE
+43,male,4,Instagram,Lifestlye,Australia,Urban,Software Engineer,11737,TRUE,FALSE,TRUE
+42,male,6,Facebook,Lifestlye,Australia,Urban,Marketer Manager,19096,TRUE,TRUE,TRUE
+39,male,9,Instagram,Travel,United States,Sub_Urban,Student,13554,TRUE,FALSE,TRUE
+44,male,6,Facebook,Lifestlye,United Kingdom,Rural,Student,19918,FALSE,FALSE,TRUE
+30,male,9,YouTube,Travel,Australia,Urban,Student,19126,FALSE,FALSE,TRUE
+50,male,4,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,17095,TRUE,TRUE,FALSE
+51,male,8,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,18266,FALSE,FALSE,FALSE
+58,male,9,Instagram,Travel,United Kingdom,Urban,Student,10294,FALSE,TRUE,FALSE
+52,male,4,YouTube,Sports,United States,Rural,Software Engineer,18212,FALSE,TRUE,FALSE
+18,male,5,Facebook,Sports,United Kingdom,Urban,Student,19230,TRUE,TRUE,TRUE
+38,female,8,YouTube,Travel,Australia,Sub_Urban,Software Engineer,15330,TRUE,FALSE,FALSE
+23,female,6,Instagram,Travel,United States,Rural,Student,14655,FALSE,FALSE,TRUE
+45,female,7,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,11109,FALSE,TRUE,FALSE
+34,female,3,YouTube,Lifestlye,Australia,Urban,Student,13771,FALSE,TRUE,FALSE
+22,female,7,Instagram,Lifestlye,United States,Rural,Student,18563,FALSE,TRUE,FALSE
+48,female,8,Instagram,Travel,Australia,Sub_Urban,Software Engineer,16123,TRUE,FALSE,TRUE
+22,female,6,YouTube,Travel,Australia,Sub_Urban,Software Engineer,17647,FALSE,FALSE,FALSE
+55,female,9,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,11174,TRUE,TRUE,TRUE
+20,female,6,YouTube,Sports,Australia,Urban,Software Engineer,11164,TRUE,TRUE,TRUE
+40,female,9,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,19284,TRUE,FALSE,FALSE
+54,female,4,YouTube,Lifestlye,Australia,Urban,Software Engineer,19475,FALSE,TRUE,TRUE
+54,female,8,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,19037,TRUE,FALSE,TRUE
+27,female,4,YouTube,Lifestlye,Australia,Urban,Student,18712,TRUE,FALSE,FALSE
+27,female,2,Instagram,Travel,United States,Rural,Student,14466,FALSE,TRUE,FALSE
+36,female,9,Instagram,Travel,United States,Urban,Student,15538,FALSE,TRUE,FALSE
+34,female,5,Facebook,Sports,Australia,Urban,Marketer Manager,17111,FALSE,FALSE,FALSE
+38,female,4,YouTube,Sports,United States,Urban,Student,18434,TRUE,FALSE,FALSE
+31,female,2,YouTube,Sports,Australia,Urban,Marketer Manager,12800,FALSE,FALSE,FALSE
+26,female,1,Instagram,Sports,United States,Sub_Urban,Marketer Manager,14607,TRUE,FALSE,TRUE
+63,female,7,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,17262,TRUE,FALSE,FALSE
+18,female,6,Instagram,Travel,Australia,Sub_Urban,Student,11541,FALSE,TRUE,FALSE
+62,female,2,Facebook,Travel,United Kingdom,Urban,Marketer Manager,12765,TRUE,FALSE,TRUE
+30,female,8,Facebook,Sports,United Kingdom,Rural,Student,14491,TRUE,FALSE,FALSE
+21,female,4,Instagram,Sports,Australia,Sub_Urban,Student,13083,TRUE,FALSE,TRUE
+18,female,8,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,15356,TRUE,TRUE,FALSE
+57,female,7,YouTube,Lifestlye,Australia,Sub_Urban,Software Engineer,11857,FALSE,TRUE,FALSE
+49,female,5,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,10769,TRUE,FALSE,TRUE
+51,female,8,Facebook,Travel,Australia,Rural,Marketer Manager,11422,FALSE,FALSE,FALSE
+45,female,9,Instagram,Travel,Australia,Urban,Student,18598,TRUE,TRUE,TRUE
+48,female,5,YouTube,Travel,United States,Sub_Urban,Marketer Manager,12972,TRUE,TRUE,FALSE
+25,female,5,Instagram,Sports,Australia,Rural,Marketer Manager,11872,FALSE,TRUE,FALSE
+56,female,2,Facebook,Travel,Australia,Sub_Urban,Student,15599,TRUE,TRUE,TRUE
+43,female,5,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,12269,TRUE,FALSE,FALSE
+51,female,3,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,15275,TRUE,TRUE,FALSE
+20,female,7,Facebook,Sports,United States,Rural,Student,14749,TRUE,FALSE,TRUE
+29,female,5,Instagram,Lifestlye,United Kingdom,Urban,Student,16571,TRUE,FALSE,FALSE
+18,female,8,Instagram,Sports,United Kingdom,Rural,Software Engineer,19373,TRUE,TRUE,TRUE
+61,female,1,YouTube,Travel,United States,Urban,Student,15072,FALSE,TRUE,FALSE
+22,female,3,Facebook,Travel,United Kingdom,Urban,Software Engineer,19631,FALSE,TRUE,TRUE
+47,female,3,YouTube,Travel,United Kingdom,Urban,Marketer Manager,15463,FALSE,TRUE,FALSE
+47,female,9,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,17450,TRUE,FALSE,TRUE
+34,female,5,Instagram,Sports,United Kingdom,Rural,Student,18420,TRUE,FALSE,TRUE
+64,female,9,Facebook,Travel,United States,Rural,Student,13959,TRUE,FALSE,FALSE
+40,female,9,Instagram,Sports,United States,Rural,Marketer Manager,11313,FALSE,TRUE,FALSE
+32,female,1,Facebook,Travel,United Kingdom,Urban,Software Engineer,17847,TRUE,FALSE,TRUE
+54,female,2,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11070,FALSE,TRUE,FALSE
+38,female,5,Instagram,Lifestlye,United States,Urban,Marketer Manager,19166,TRUE,FALSE,TRUE
+31,female,4,YouTube,Sports,United States,Rural,Student,19930,TRUE,TRUE,FALSE
+19,female,9,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,13285,TRUE,FALSE,FALSE
+28,female,7,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,18949,FALSE,FALSE,TRUE
+56,female,6,Instagram,Sports,United Kingdom,Sub_Urban,Student,13095,TRUE,TRUE,TRUE
+55,female,7,YouTube,Travel,Australia,Rural,Marketer Manager,10320,FALSE,FALSE,FALSE
+51,female,1,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,12321,TRUE,FALSE,FALSE
+55,female,1,YouTube,Sports,United Kingdom,Sub_Urban,Student,10555,TRUE,TRUE,FALSE
+51,female,8,YouTube,Lifestlye,United States,Urban,Student,14939,FALSE,TRUE,FALSE
+35,female,2,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,15432,TRUE,TRUE,FALSE
+47,female,9,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,11386,TRUE,TRUE,TRUE
+32,female,7,YouTube,Lifestlye,United Kingdom,Sub_Urban,Student,14763,TRUE,TRUE,FALSE
+44,female,6,Facebook,Sports,Australia,Urban,Student,16854,TRUE,FALSE,FALSE
+51,female,1,Facebook,Sports,Australia,Urban,Software Engineer,17637,FALSE,TRUE,TRUE
+55,female,1,Instagram,Sports,United States,Urban,Software Engineer,14841,FALSE,FALSE,TRUE
+50,female,2,YouTube,Lifestlye,United Kingdom,Rural,Student,13867,TRUE,FALSE,TRUE
+41,female,6,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,13793,TRUE,TRUE,FALSE
+32,female,6,Instagram,Lifestlye,United States,Urban,Student,17373,FALSE,FALSE,TRUE
+47,female,2,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,12513,TRUE,FALSE,TRUE
+59,female,1,Facebook,Lifestlye,United States,Urban,Software Engineer,13803,FALSE,TRUE,TRUE
+34,female,5,Facebook,Travel,United Kingdom,Rural,Marketer Manager,12327,TRUE,FALSE,TRUE
+22,female,5,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,18809,FALSE,TRUE,FALSE
+46,female,2,Facebook,Travel,United Kingdom,Rural,Marketer Manager,12165,FALSE,TRUE,FALSE
+21,female,6,Instagram,Lifestlye,United States,Sub_Urban,Student,13308,FALSE,TRUE,FALSE
+27,female,9,Instagram,Sports,United Kingdom,Rural,Marketer Manager,16452,FALSE,FALSE,TRUE
+34,female,2,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,18067,TRUE,FALSE,TRUE
+27,female,2,Facebook,Travel,United Kingdom,Sub_Urban,Marketer Manager,17642,TRUE,FALSE,TRUE
+34,female,3,Instagram,Travel,United States,Sub_Urban,Student,16404,FALSE,FALSE,TRUE
+37,female,7,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,10992,FALSE,TRUE,TRUE
+41,female,6,Facebook,Travel,United Kingdom,Rural,Marketer Manager,15424,FALSE,FALSE,TRUE
+22,female,8,YouTube,Travel,Australia,Rural,Software Engineer,19569,FALSE,TRUE,FALSE
+51,female,8,Facebook,Sports,United Kingdom,Sub_Urban,Student,14381,TRUE,FALSE,FALSE
+23,female,6,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,13174,FALSE,FALSE,TRUE
+19,female,3,Instagram,Lifestlye,United States,Rural,Software Engineer,14782,FALSE,FALSE,FALSE
+30,female,3,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,19497,FALSE,FALSE,TRUE
+60,female,1,Instagram,Travel,United Kingdom,Sub_Urban,Student,15560,FALSE,FALSE,TRUE
+60,female,7,Facebook,Lifestlye,United States,Sub_Urban,Student,17460,FALSE,TRUE,FALSE
+28,female,5,Instagram,Lifestlye,Australia,Urban,Student,13078,FALSE,FALSE,TRUE
+64,female,4,Facebook,Sports,United States,Sub_Urban,Student,12983,FALSE,FALSE,FALSE
+40,female,4,Facebook,Sports,United States,Urban,Student,17259,TRUE,FALSE,TRUE
+33,female,4,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,16054,FALSE,FALSE,TRUE
+48,female,6,Facebook,Travel,United States,Rural,Marketer Manager,12523,FALSE,TRUE,FALSE
+28,female,8,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,19677,FALSE,FALSE,TRUE
+33,female,8,Facebook,Sports,United Kingdom,Urban,Marketer Manager,14581,TRUE,TRUE,TRUE
+25,female,5,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,15609,TRUE,FALSE,TRUE
+21,female,6,Facebook,Sports,United States,Sub_Urban,Marketer Manager,12001,TRUE,TRUE,FALSE
+57,female,4,Facebook,Lifestlye,United Kingdom,Urban,Student,11387,FALSE,TRUE,TRUE
+21,female,9,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,16552,FALSE,TRUE,TRUE
+42,female,8,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,11030,FALSE,TRUE,TRUE
+20,female,1,Facebook,Travel,United Kingdom,Sub_Urban,Student,19957,TRUE,TRUE,FALSE
+49,female,2,YouTube,Travel,United Kingdom,Rural,Marketer Manager,11220,FALSE,FALSE,FALSE
+20,female,9,Facebook,Sports,United Kingdom,Rural,Marketer Manager,16035,TRUE,TRUE,FALSE
+44,female,8,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,19810,TRUE,FALSE,FALSE
+46,female,3,Instagram,Sports,United Kingdom,Rural,Software Engineer,19455,TRUE,TRUE,FALSE
+49,female,8,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,16523,TRUE,TRUE,TRUE
+36,female,1,YouTube,Lifestlye,Australia,Urban,Student,18074,TRUE,FALSE,FALSE
+38,female,4,Instagram,Lifestlye,United States,Sub_Urban,Student,19063,FALSE,TRUE,FALSE
+22,female,3,Instagram,Travel,United States,Urban,Marketer Manager,10834,FALSE,TRUE,TRUE
+35,female,6,YouTube,Travel,United States,Urban,Marketer Manager,19110,TRUE,TRUE,FALSE
+45,female,7,Instagram,Lifestlye,United States,Rural,Marketer Manager,11724,FALSE,TRUE,TRUE
+59,female,4,Facebook,Sports,United Kingdom,Rural,Student,16598,FALSE,FALSE,FALSE
+39,female,7,YouTube,Lifestlye,United Kingdom,Rural,Student,12413,TRUE,TRUE,TRUE
+38,female,9,YouTube,Lifestlye,Australia,Sub_Urban,Software Engineer,19505,TRUE,TRUE,TRUE
+23,female,2,Facebook,Sports,Australia,Rural,Software Engineer,15993,FALSE,FALSE,FALSE
+18,female,3,Instagram,Lifestlye,United States,Urban,Software Engineer,14498,FALSE,FALSE,FALSE
+22,female,5,YouTube,Sports,Australia,Rural,Student,12105,FALSE,TRUE,TRUE
+58,female,3,YouTube,Travel,Australia,Rural,Software Engineer,12568,FALSE,TRUE,TRUE
+29,female,8,Facebook,Travel,United States,Sub_Urban,Marketer Manager,19330,TRUE,FALSE,TRUE
+43,female,8,Facebook,Sports,United States,Sub_Urban,Marketer Manager,10209,FALSE,TRUE,TRUE
+63,female,8,Instagram,Travel,Australia,Urban,Student,19256,TRUE,FALSE,TRUE
+51,female,9,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,14911,TRUE,TRUE,TRUE
+31,female,4,Instagram,Sports,Australia,Rural,Marketer Manager,12220,FALSE,FALSE,TRUE
+43,female,5,Instagram,Travel,Australia,Sub_Urban,Student,10233,FALSE,FALSE,FALSE
+62,female,5,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,10792,FALSE,FALSE,TRUE
+44,female,8,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,13110,TRUE,TRUE,FALSE
+26,female,7,YouTube,Sports,United States,Urban,Software Engineer,12166,TRUE,TRUE,FALSE
+43,female,9,YouTube,Travel,United States,Sub_Urban,Student,18526,TRUE,TRUE,TRUE
+64,female,8,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,19551,TRUE,TRUE,TRUE
+39,female,2,Facebook,Lifestlye,United Kingdom,Urban,Student,15193,FALSE,FALSE,FALSE
+64,female,4,Facebook,Travel,United States,Rural,Software Engineer,11214,TRUE,FALSE,TRUE
+47,female,6,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,14419,TRUE,FALSE,TRUE
+60,female,2,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,17314,FALSE,TRUE,FALSE
+34,female,7,YouTube,Lifestlye,Australia,Rural,Student,18475,TRUE,TRUE,FALSE
+43,female,3,Instagram,Sports,United States,Sub_Urban,Student,10212,TRUE,TRUE,FALSE
+53,female,3,YouTube,Sports,United States,Urban,Software Engineer,11658,FALSE,FALSE,TRUE
+18,female,2,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,15024,TRUE,TRUE,TRUE
+25,female,8,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,19609,TRUE,TRUE,FALSE
+52,female,6,Instagram,Lifestlye,United Kingdom,Rural,Student,15917,TRUE,FALSE,TRUE
+32,female,1,YouTube,Lifestlye,United States,Urban,Student,15141,TRUE,FALSE,FALSE
+64,female,1,YouTube,Sports,United States,Rural,Software Engineer,11794,FALSE,TRUE,TRUE
+39,female,7,Instagram,Sports,Australia,Sub_Urban,Software Engineer,15988,TRUE,FALSE,FALSE
+31,female,8,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,18296,FALSE,TRUE,TRUE
+43,female,5,Facebook,Travel,Australia,Rural,Marketer Manager,15578,TRUE,FALSE,FALSE
+45,female,5,YouTube,Travel,United Kingdom,Rural,Software Engineer,15551,FALSE,FALSE,TRUE
+40,female,4,Instagram,Lifestlye,Australia,Rural,Student,13845,FALSE,FALSE,TRUE
+31,female,6,Facebook,Sports,Australia,Urban,Marketer Manager,16906,FALSE,TRUE,FALSE
+41,female,6,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,10378,TRUE,TRUE,TRUE
+19,female,3,YouTube,Sports,United States,Rural,Software Engineer,13293,TRUE,TRUE,TRUE
+62,female,9,Facebook,Lifestlye,Australia,Sub_Urban,Student,13329,TRUE,FALSE,FALSE
+43,female,7,Instagram,Travel,Australia,Urban,Software Engineer,14808,FALSE,FALSE,TRUE
+31,female,1,YouTube,Travel,United States,Urban,Software Engineer,17937,TRUE,FALSE,TRUE
+24,female,7,YouTube,Travel,Australia,Urban,Marketer Manager,10224,TRUE,FALSE,TRUE
+20,female,5,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,10737,TRUE,TRUE,FALSE
+64,female,5,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,10235,TRUE,TRUE,FALSE
+40,female,2,Facebook,Sports,United Kingdom,Urban,Marketer Manager,10711,FALSE,TRUE,FALSE
+63,female,4,Facebook,Travel,Australia,Urban,Student,15988,FALSE,FALSE,FALSE
+60,female,6,Instagram,Travel,United States,Rural,Student,11888,TRUE,FALSE,FALSE
+64,female,7,Facebook,Travel,Australia,Urban,Marketer Manager,17173,TRUE,TRUE,TRUE
+62,female,5,Instagram,Travel,Australia,Rural,Marketer Manager,11259,TRUE,FALSE,TRUE
+35,female,9,Instagram,Sports,United States,Urban,Student,15246,FALSE,TRUE,FALSE
+55,female,3,Facebook,Lifestlye,United States,Urban,Student,17271,TRUE,FALSE,TRUE
+52,female,1,Instagram,Lifestlye,United States,Rural,Student,10748,FALSE,FALSE,TRUE
+32,female,4,Facebook,Lifestlye,United Kingdom,Urban,Student,13551,FALSE,TRUE,TRUE
+42,female,9,YouTube,Lifestlye,Australia,Sub_Urban,Student,16400,TRUE,TRUE,TRUE
+54,female,4,YouTube,Travel,United States,Sub_Urban,Marketer Manager,16643,TRUE,FALSE,FALSE
+45,female,2,Instagram,Travel,Australia,Urban,Software Engineer,18701,TRUE,TRUE,FALSE
+27,female,5,Facebook,Travel,United Kingdom,Sub_Urban,Student,11823,FALSE,TRUE,TRUE
+56,female,3,Facebook,Lifestlye,United Kingdom,Rural,Student,16852,FALSE,FALSE,TRUE
+34,female,9,YouTube,Travel,United States,Urban,Software Engineer,17777,TRUE,FALSE,FALSE
+56,female,4,YouTube,Travel,United States,Urban,Software Engineer,14232,FALSE,FALSE,TRUE
+39,female,6,Facebook,Sports,Australia,Rural,Software Engineer,16519,TRUE,TRUE,TRUE
+43,female,2,Instagram,Sports,United States,Rural,Software Engineer,11777,TRUE,FALSE,TRUE
+61,female,6,YouTube,Travel,Australia,Rural,Software Engineer,11222,FALSE,FALSE,FALSE
+42,female,3,Instagram,Sports,United States,Urban,Software Engineer,17630,FALSE,FALSE,FALSE
+34,female,9,Instagram,Sports,Australia,Rural,Marketer Manager,11777,FALSE,FALSE,TRUE
+30,female,2,YouTube,Travel,Australia,Rural,Software Engineer,19496,FALSE,FALSE,TRUE
+37,female,9,Instagram,Travel,Australia,Sub_Urban,Software Engineer,17490,TRUE,TRUE,TRUE
+42,female,5,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,14859,TRUE,FALSE,TRUE
+21,female,8,Facebook,Travel,United Kingdom,Urban,Software Engineer,18893,TRUE,FALSE,TRUE
+27,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Student,18118,FALSE,TRUE,TRUE
+20,female,6,Facebook,Lifestlye,United States,Sub_Urban,Student,12989,TRUE,FALSE,FALSE
+58,female,3,YouTube,Travel,United Kingdom,Rural,Software Engineer,18343,FALSE,FALSE,FALSE
+62,female,5,YouTube,Sports,United Kingdom,Rural,Marketer Manager,11325,FALSE,TRUE,TRUE
+35,female,8,Facebook,Travel,Australia,Sub_Urban,Student,19493,FALSE,FALSE,FALSE
+64,female,1,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,19903,TRUE,TRUE,TRUE
+53,female,5,Instagram,Sports,Australia,Sub_Urban,Student,15127,FALSE,FALSE,TRUE
+64,female,3,Instagram,Lifestlye,United States,Urban,Software Engineer,18998,FALSE,TRUE,FALSE
+39,female,4,Instagram,Travel,Australia,Urban,Marketer Manager,12722,FALSE,TRUE,FALSE
+51,female,2,YouTube,Travel,United Kingdom,Urban,Marketer Manager,14656,FALSE,FALSE,TRUE
+64,female,9,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,11325,FALSE,TRUE,TRUE
+25,female,3,YouTube,Lifestlye,Australia,Sub_Urban,Student,14133,FALSE,TRUE,FALSE
+57,female,2,Instagram,Sports,United States,Urban,Student,19351,FALSE,FALSE,FALSE
+61,female,9,Facebook,Lifestlye,United States,Urban,Student,12869,FALSE,FALSE,TRUE
+36,female,7,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,11242,FALSE,TRUE,TRUE
+59,female,6,YouTube,Lifestlye,United States,Rural,Student,18539,FALSE,FALSE,TRUE
+58,female,1,Instagram,Sports,United Kingdom,Urban,Software Engineer,11831,FALSE,TRUE,FALSE
+54,female,5,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,11569,FALSE,TRUE,TRUE
+23,female,3,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,17246,TRUE,FALSE,FALSE
+43,female,1,Facebook,Sports,United States,Rural,Software Engineer,11918,TRUE,FALSE,TRUE
+51,female,4,Facebook,Lifestlye,Australia,Sub_Urban,Student,16416,FALSE,TRUE,FALSE
+62,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,13232,FALSE,FALSE,FALSE
+23,female,2,Facebook,Sports,United States,Urban,Marketer Manager,13758,FALSE,FALSE,FALSE
+54,female,3,Instagram,Travel,Australia,Urban,Marketer Manager,15997,TRUE,TRUE,FALSE
+50,female,8,Instagram,Sports,United States,Rural,Software Engineer,12355,TRUE,TRUE,TRUE
+39,female,8,Instagram,Lifestlye,United States,Rural,Student,19589,TRUE,TRUE,FALSE
+38,female,7,YouTube,Lifestlye,Australia,Sub_Urban,Student,11824,FALSE,TRUE,FALSE
+23,female,6,Facebook,Lifestlye,Australia,Urban,Software Engineer,17280,FALSE,TRUE,FALSE
+23,female,9,Instagram,Sports,United Kingdom,Rural,Software Engineer,14060,FALSE,TRUE,TRUE
+21,female,4,Facebook,Lifestlye,Australia,Rural,Student,15324,FALSE,FALSE,TRUE
+47,female,1,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,10404,TRUE,TRUE,TRUE
+28,female,8,Facebook,Sports,Australia,Sub_Urban,Software Engineer,11721,FALSE,FALSE,TRUE
+47,female,7,Facebook,Travel,United States,Urban,Student,15316,TRUE,FALSE,TRUE
+48,female,7,Instagram,Travel,Australia,Rural,Student,13845,TRUE,TRUE,TRUE
+41,female,3,YouTube,Lifestlye,United States,Urban,Marketer Manager,14210,FALSE,FALSE,FALSE
+26,female,4,Facebook,Sports,United States,Rural,Marketer Manager,10064,TRUE,TRUE,FALSE
+20,female,9,YouTube,Lifestlye,United States,Rural,Marketer Manager,19491,TRUE,FALSE,FALSE
+48,female,6,YouTube,Sports,United Kingdom,Urban,Marketer Manager,16382,TRUE,TRUE,TRUE
+57,female,5,Instagram,Sports,Australia,Urban,Marketer Manager,19607,TRUE,TRUE,FALSE
+54,female,3,Instagram,Travel,United States,Urban,Software Engineer,10968,FALSE,TRUE,FALSE
+53,female,9,Instagram,Travel,United States,Sub_Urban,Student,10368,FALSE,TRUE,TRUE
+41,female,5,Facebook,Sports,United Kingdom,Rural,Software Engineer,18424,TRUE,FALSE,FALSE
+48,female,5,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,12242,FALSE,FALSE,TRUE
+23,female,4,Instagram,Travel,Australia,Urban,Software Engineer,15002,TRUE,FALSE,FALSE
+19,female,4,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,13083,FALSE,FALSE,TRUE
+37,female,1,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,18073,FALSE,FALSE,TRUE
+45,male,7,Instagram,Travel,Australia,Rural,Marketer Manager,19112,FALSE,TRUE,TRUE
+28,female,9,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,18880,FALSE,TRUE,FALSE
+21,female,3,Instagram,Travel,Australia,Urban,Student,11469,FALSE,TRUE,FALSE
+32,female,2,Instagram,Travel,Australia,Sub_Urban,Software Engineer,14725,TRUE,TRUE,TRUE
+23,female,3,YouTube,Lifestlye,United States,Rural,Student,14259,FALSE,TRUE,TRUE
+47,female,1,YouTube,Travel,United States,Rural,Marketer Manager,13622,TRUE,FALSE,FALSE
+55,female,6,Instagram,Travel,Australia,Rural,Marketer Manager,10823,TRUE,TRUE,FALSE
+19,male,7,YouTube,Travel,Australia,Rural,Marketer Manager,13431,FALSE,TRUE,TRUE
+32,female,2,Facebook,Lifestlye,Australia,Urban,Software Engineer,16528,TRUE,FALSE,FALSE
+28,female,8,YouTube,Sports,Australia,Sub_Urban,Software Engineer,14151,FALSE,FALSE,FALSE
+25,female,6,YouTube,Lifestlye,Australia,Urban,Marketer Manager,14213,TRUE,TRUE,FALSE
+43,female,4,Instagram,Sports,Australia,Urban,Student,17420,TRUE,TRUE,TRUE
+62,female,5,YouTube,Travel,United Kingdom,Urban,Student,18989,FALSE,FALSE,TRUE
+61,female,8,YouTube,Sports,Australia,Rural,Marketer Manager,10779,FALSE,TRUE,FALSE
+22,female,3,YouTube,Lifestlye,United Kingdom,Rural,Student,12892,FALSE,TRUE,TRUE
+23,female,3,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,15534,FALSE,TRUE,FALSE
+43,female,4,Facebook,Travel,Australia,Sub_Urban,Student,13306,TRUE,FALSE,FALSE
+21,female,1,Instagram,Sports,Australia,Rural,Marketer Manager,12902,FALSE,TRUE,TRUE
+36,female,9,Instagram,Travel,United Kingdom,Sub_Urban,Student,13718,TRUE,TRUE,TRUE
+37,female,8,Facebook,Travel,United Kingdom,Rural,Software Engineer,10021,TRUE,FALSE,TRUE
+50,female,8,YouTube,Lifestlye,Australia,Rural,Marketer Manager,11500,TRUE,FALSE,FALSE
+37,female,6,Facebook,Sports,Australia,Urban,Marketer Manager,19034,TRUE,FALSE,FALSE
+29,female,7,YouTube,Sports,United Kingdom,Urban,Student,19952,TRUE,TRUE,TRUE
+64,female,6,Facebook,Sports,United Kingdom,Urban,Marketer Manager,13641,TRUE,FALSE,TRUE
+18,female,9,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,15212,FALSE,TRUE,TRUE
+43,female,3,Instagram,Travel,United States,Sub_Urban,Marketer Manager,10191,TRUE,FALSE,FALSE
+31,female,3,Instagram,Travel,United Kingdom,Rural,Software Engineer,18587,TRUE,TRUE,FALSE
+55,female,3,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,17174,TRUE,FALSE,FALSE
+54,female,3,YouTube,Travel,Australia,Rural,Student,15114,FALSE,TRUE,TRUE
+28,male,9,Facebook,Travel,Australia,Sub_Urban,Software Engineer,14662,FALSE,TRUE,TRUE
+53,male,4,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,14326,TRUE,FALSE,FALSE
+30,male,7,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,19065,FALSE,FALSE,TRUE
+60,male,9,YouTube,Lifestlye,Australia,Urban,Student,14335,TRUE,TRUE,TRUE
+20,male,7,Facebook,Travel,Australia,Sub_Urban,Software Engineer,18281,FALSE,FALSE,TRUE
+50,male,9,YouTube,Travel,Australia,Urban,Software Engineer,18648,TRUE,TRUE,TRUE
+23,male,3,YouTube,Lifestlye,United States,Urban,Student,19196,FALSE,FALSE,FALSE
+27,male,4,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,15494,FALSE,FALSE,TRUE
+22,female,8,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,18536,FALSE,TRUE,FALSE
+40,male,6,YouTube,Travel,United Kingdom,Rural,Software Engineer,12711,TRUE,FALSE,FALSE
+27,male,5,YouTube,Travel,United Kingdom,Rural,Student,17595,TRUE,FALSE,TRUE
+61,female,4,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,16273,TRUE,TRUE,FALSE
+19,male,8,YouTube,Travel,Australia,Rural,Student,16284,FALSE,TRUE,FALSE
